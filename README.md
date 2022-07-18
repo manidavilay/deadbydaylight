@@ -14,17 +14,17 @@ This app allows to fetch the Survivors and Killers, their perks, items and add-o
 npx create-nuxt-app name-of-project
 ```
 
-1. Package manager: <br /><br />
+1. Package manager: <br />
 
 Yarn <br />
 Npm 👈
 
-2. Programming language: <br /><br />
+2. Programming language: <br />
 
 JavaScript 👈 <br />
 TypeScript
 
-3. UI framework: <br /><br />
+3. UI framework: <br />
 
 None (feel free to add one later)<br />
 Ant Design Vue <br />
@@ -42,13 +42,13 @@ Vant <br />
 View UI <br />
 Vuetify 👈
 
-4. Nuxt.js modules: <br /><br />
+4. Nuxt.js modules: <br />
 
 Axios - Promise based HTTP client 👈 <br />
 Progressive Web App (PWA) <br />
 Content - Git-based headless CMS
 
-5. Linting tools: <br /><br />
+5. Linting tools: <br />
 
 ESLint 👈 <br />
 Prettier <br />
@@ -56,7 +56,7 @@ Lint staged files <br />
 StyleLint <br />
 Commitlint
 
-6. Testing framework: <br /><br />
+6. Testing framework: <br />
 
 None 👈 <br />
 Jest <br />
@@ -64,12 +64,12 @@ AVA <br />
 WebdriverIO <br />
 Nightwatch
 
-7. Rendering mode: <br /><br />
+7. Rendering mode: <br />
 
 Universal (SSR / Static) 👈 <br />
 SPA
 
-8. Deployment target: <br /><br />
+8. Deployment target: <br />
 
 Server (Node.js hosting) 👈 <br />
 Static (Static/JAMStack hosting)
