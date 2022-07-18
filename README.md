@@ -15,61 +15,61 @@ npx create-nuxt-app name-of-project
 ```
 
 1. Package manager:
-Yarn__
+Yarn <br />
 Npm 👈
 
 2. Programming language
-JavaScript 👈__
+JavaScript 👈 <br />
 TypeScript
 
 3. UI framework:
 
 None (feel free to add one later)
-Ant Design Vue__
-BalmUI__
-Bootstrap__
-Buefy__
-Chakra UI__
-Element__
-Oruga__
-Primevue/__
-Tachyons__
-Tailwind CSS__
-Windi CSS__
-Vant__
-View UI__
+Ant Design Vue <br />
+BalmUI <br />
+Bootstrap <br />
+Buefy <br />
+Chakra UI <br />
+Element <br />
+Oruga <br />
+Primevue/ <br />
+Tachyons <br />
+Tailwind CSS <br />
+Windi CSS <br />
+Vant <br />
+View UI <br />
 Vuetify 👈
 
 4. Nuxt.js modules:
 
-Axios - Promise based HTTP client 👈__
-Progressive Web App (PWA)__
+Axios - Promise based HTTP client 👈 <br />
+Progressive Web App (PWA) <br />
 Content - Git-based headless CMS
 
 5. Linting tools:
 
-ESLint 👈__
-Prettier__
-Lint staged files__
-StyleLint__
+ESLint 👈 <br />
+Prettier <br />
+Lint staged files <br />
+StyleLint <br />
 Commitlint
 
 6. Testing framework:
 
-None 👈__
-Jest__
-AVA__
-WebdriverIO__
+None 👈 <br />
+Jest <br />
+AVA <br />
+WebdriverIO <br />
 Nightwatch
 
 7. Rendering mode:
 
-Universal (SSR / Static) 👈__
+Universal (SSR / Static) 👈 <br />
 SPA
 
 8. Deployment target:
 
-Server (Node.js hosting) 👈__
+Server (Node.js hosting) 👈 <br />
 Static (Static/JAMStack hosting)
 
 ## Build Setup
