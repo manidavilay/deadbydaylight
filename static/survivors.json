@@ -1,0 +1,312 @@
+[
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06aa",
+    "name": "Dwight Fairfield",
+    "portrait": "./survivors-portraits/DF.png",
+    "gender": "Male",
+    "role": "Nervous Leader",
+    "nationality": "American",
+    "difficulty": "Easy",
+    "perks": ["Bond", "Prove Thyself", "Leader"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06ab",
+    "name": "Meg Thomas",
+    "portrait": "./survivors-portraits/MT.png",
+    "gender": "Female",
+    "role": "Energetic Athlete",
+    "nationality": "American",
+    "difficulty": "Easy",
+    "perks": ["Quick Quiet", "Sprint Burst", "Adrenaline"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06ac",
+    "name": "Claudette Morel",
+    "portrait": "./survivors-portraits/CM.png",
+    "gender": "Female",
+    "role": "Studious Botanist",
+    "nationality": "Canadian",
+    "difficulty": "Easy",
+    "perks": ["Empathy", "Botany Knowledge", "Self Care"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06ad",
+    "name": "Jake Park",
+    "portrait": "./survivors-portraits/JP.png",
+    "gender": "Male",
+    "role": "Solitary Survivalist",
+    "nationality": "Asian American",
+    "difficulty": "Intermediate",
+    "perks": ["Iron Will", "Calm Spirit", "Saboteur"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06ae",
+    "name": "Nea Karlsson",
+    "portrait": "./survivors-portraits/NK.png",
+    "gender": "Female",
+    "role": "Urban Artist",
+    "nationality": "Swedish",
+    "difficulty": "Intermediate",
+    "perks": ["Balanced Landing", "Urban Evasion", "Streetwise"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06af",
+    "name": "Laurie Strode",
+    "portrait": "./survivors-portraits/LS.png",
+    "gender": "Female",
+    "role": "Determined Survivor",
+    "nationality": "American",
+    "difficulty": "Hard",
+    "perks": ["Sole Survivor", "Object of Obsession", "Decisive Strike"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06ag",
+    "name": "Ace Visconti",
+    "portrait": "./survivors-portraits/AV.png",
+    "gender": "Male",
+    "role": "Lucky Gambler",
+    "nationality": "Argentinian of Italian descent",
+    "difficulty": "Easy",
+    "perks": ["Open Handed", "Up the Ante", "Ace in the Hole"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06ah",
+    "name": "Bill Overbeck",
+    "portrait": "./survivors-portraits/BO.png",
+    "gender": "Male",
+    "role": "Old Soldier",
+    "nationality": "American",
+    "difficulty": "Hard",
+    "perks": ["Left Behind", "Borrowed Time", "Unbreakable"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06ai",
+    "name": "Feng Min",
+    "portrait": "./survivors-portraits/FM.png",
+    "gender": "Female",
+    "role": "Focused Competitor",
+    "nationality": "Chinese",
+    "difficulty": "Easy",
+    "perks": ["Technician", "Lithe", "Alert"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06aj",
+    "name": "David King",
+    "portrait": "./survivors-portraits/DK.png",
+    "gender": "Male",
+    "role": "Rugged Scrapper",
+    "nationality": "English",
+    "difficulty": "Intermediate",
+    "perks": ["Were Gonna Live Forever", "Dead Hard", "No Mither"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06ba",
+    "name": "Quentin Smith",
+    "portrait": "./survivors-portraits/QS.png",
+    "gender": "Male",
+    "role": "Resolute Dreamwalker",
+    "nationality": "American",
+    "difficulty": "Easy",
+    "perks": ["Wake Up", "Pharmacy", "Vigil"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06bb",
+    "name": "David Tapp",
+    "portrait": "./survivors-portraits/DT.png",
+    "gender": "Male",
+    "role": "Obsessed Detective",
+    "nationality": "African American",
+    "difficulty": "Intermediate",
+    "perks": ["Tenacity", "Detectives Hunch", "Stake Out"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06bc",
+    "name": "Kate Denson",
+    "portrait": "./survivors-portraits/KD.png",
+    "gender": "Female",
+    "role": "Hopeful Songbird",
+    "nationality": "American",
+    "difficulty": "Easy",
+    "perks": ["Dance With Me", "Windows of Opportunity", "Boil Over"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06bd",
+    "name": "Adam Francis",
+    "portrait": "./survivors-portraits/AF.png",
+    "gender": "Male",
+    "role": "Resourceful Teacher",
+    "nationality": "Jamaican",
+    "difficulty": "Intermediate",
+    "perks": ["Diversion", "Deliverance", "Autodidact"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06be",
+    "name": "Jeff Johansen",
+    "portrait": "./survivors-portraits/JJ.png",
+    "gender": "Male",
+    "role": "Quiet Artist",
+    "nationality": "Canadian with Norwegian roots",
+    "difficulty": "Intermediate",
+    "perks": ["Breakdown", "Aftercare", "Distortion"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06bf",
+    "name": "Jane Romero",
+    "portrait": "./survivors-portraits/JR.png",
+    "gender": "Female",
+    "role": "Influential Celebrity",
+    "nationality": "Latin American",
+    "difficulty": "Intermediate",
+    "perks": ["Solidarity", "Poised", "Head On"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06bg",
+    "name": "Ash Williams",
+    "portrait": "./survivors-portraits/AW.png",
+    "gender": "Male",
+    "role": "Alone Wolf",
+    "nationality": "American",
+    "difficulty": "Easy",
+    "perks": ["Flip Flop", "Buckle Up", "Mettle of Man"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06bh",
+    "name": "Nancy Wheeler",
+    "portrait": "./survivors-portraits/NW.png",
+    "gender": "Female",
+    "role": "Aspiring Journalist",
+    "nationality": "American",
+    "difficulty": "Easy",
+    "perks": ["Better Together", "Fixated", "Inner Strength"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06bi",
+    "name": "Steve Harrington",
+    "portrait": "./survivors-portraits/SH.png",
+    "gender": "Male",
+    "role": "Former Jock",
+    "nationality": "American",
+    "difficulty": "Easy",
+    "perks": ["Babysitter", "Camaraderie", "Second Wind"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06bj",
+    "name": "Yui Kimura",
+    "portrait": "./survivors-portraits/YK.png",
+    "gender": "Female",
+    "role": "Hardened Streetracer",
+    "nationality": "Japanese",
+    "difficulty": "Easy",
+    "perks": ["Lucky Break", "Any Means Necessary", "Breakout"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06ca",
+    "name": "Zarina Kassir",
+    "portrait": "./survivors-portraits/ZK.png",
+    "gender": "Female",
+    "role": "Plucky Documentarian",
+    "nationality": "Lebanese",
+    "difficulty": "Intermediate",
+    "perks": ["Off The Record", "Red Herring", "For The People"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06cb",
+    "name": "Cheryl Mason",
+    "portrait": "./survivors-portraits/CHM.png",
+    "gender": "Female",
+    "role": "Young Veteran of Terror ",
+    "nationality": "American ",
+    "difficulty": "Easy",
+    "perks": ["Soul Guard", "Blood Pact", "Repressed Alliance"]
+  },
+  {
+    "_id": "5f47fd6ed80cf12dc4ac06cc",
+    "name": "Felix Richter",
+    "portrait": "./survivors-portraits/FR.png",
+    "gender": "Male",
+    "role": "Visionary Architect",
+    "nationality": "German",
+    "difficulty": "Intermediate",
+    "perks": ["Visionary", "Desperate Measures", "Built To Last"]
+  },
+  {
+    "_id": "5fc73f902a96603d88eb19cd",
+    "name": "Élodie Rakoto",
+    "portrait": "./survivors-portraits/ER.png",
+    "gender": "Female",
+    "role": "Occult Investigator",
+    "nationality": "French Madagassian",
+    "difficulty": "Intermediate",
+    "perks": ["Appraisal", "Deception", "Power Struggle"]
+  },
+  {
+    "_id": "5fc73f902a96603d88eb19ce",
+    "name": "Yun-Jin Lee",
+    "portrait": "./survivors-portraits/YL.png",
+    "gender": "Female",
+    "role": "Self-Interested Music Producer",
+    "nationality": "South Korean",
+    "difficulty": "Intermediate",
+    "perks": ["Fast track", "Smash Hit", "Self-Preservation"]
+  },
+  {
+    "_id": "5fc73f902a96603d88eb19cf",
+    "name": "Jill Valentine",
+    "portrait": "./survivors-portraits/JV.png",
+    "gender": "Female",
+    "role": "Founding Member of S.T.A.R.S.",
+    "nationality": "American",
+    "difficulty": "Intermediate",
+    "perks": ["Counterforce", "Resurgence", "Blast Mine"]
+  },
+  {
+    "_id": "5fc73f902a96603d88eb19cg",
+    "name": "Leon Scott Kennedy",
+    "portrait": "./survivors-portraits/LSK.png",
+    "gender": "Male",
+    "role": "Rookie Police Officer",
+    "nationality": "American",
+    "difficulty": "Intermediate",
+    "perks": ["Bite the Bullet", "Flashbang", "Rookie Spirit"]
+  },
+  {
+    "_id": "5fc73f902a96603d88eb19ch",
+    "name": "Mikaela Reid",
+    "portrait": "./survivors-portraits/MR.png",
+    "gender": "Female",
+    "role": "Young mystic",
+    "nationality": "Unknown",
+    "difficulty": "Intermediate",
+    "perks": ["Clairvoyance", "Boon: Circle of Healing", "Boon: Shadow Step"]
+  },
+  {
+    "_id": "5fc73f902a96603d88eb19ci",
+    "name": "Jonah Vasquez",
+    "portrait": "./survivors-portraits/JOV.png",
+    "gender": "Male",
+    "role": "Mathematical Mastermind",
+    "nationality": "Hispanic American",
+    "difficulty": "Hard",
+    "perks": ["Overcome", "Corrective Action", "Boon: Exponential"]
+  },
+  {
+    "_id": "5fc73f902a96603d88eb19cj",
+    "name": "Yoichi Asakawa",
+    "portrait": "./survivors-portraits/YA.png",
+    "gender": "Male",
+    "role": "Brilliant Marine Biologist",
+    "nationality": "Japanese",
+    "difficulty": "Hard",
+    "perks": ["Parental Guidance", "Empathic Connection", "Boon: Dark Theory"]
+  },
+  {
+    "_id": "5fc73f902a96603d88eb19da",
+    "name": "Haddie Kaura",
+    "portrait": "./survivors-portraits/HK.png",
+    "gender": "Female",
+    "role": "Brave and Determined Podcaster",
+    "nationality": "Indian",
+    "difficulty": "Hard",
+    "perks": ["Inner Focus", "Residual Manifest", "Overzealous"]
+  }
+]
