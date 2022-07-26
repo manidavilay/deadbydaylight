@@ -6,7 +6,7 @@
       v-model="search"
     ></v-text-field>
     <v-list class="d-flex flex-column survivors">
-      <v-list-item v-for="survivor in filteredSurvivors" :key="survivor.id">
+      <v-list-item v-for="survivor in filteredSurvivors" :key="survivor.id" class="my-13">
         <div class="d-flex flex-column align-center text-center">
           <img :src="survivor.portrait" alt="" />
           <h2 class="survivors-name">{{ survivor.name }}</h2>
