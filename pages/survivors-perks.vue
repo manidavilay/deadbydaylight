@@ -3,10 +3,10 @@
         Survivors Perks
         <v-list>
             <v-list-item v-for="survivorsPerk in survivorsPerks" :key="survivorsPerk.id">
-                {{ survivorsPerk.name }} <br>
                 <img :src="survivorsPerk.icon" alt="">
+                {{ survivorsPerk.name }} <br>
                 {{ survivorsPerk.character }} <br>
-                {{ survivorsPerk.description }} <br>
+                {{ survivorsPerk.description }}
             </v-list-item>
         </v-list>
     </section>

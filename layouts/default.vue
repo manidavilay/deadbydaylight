@@ -1,7 +1,7 @@
 <template>
   <v-app dark>
     <!-- HEADER -->
-    <v-app-bar :clipped-left="clipped" fixed app>
+    <v-app-bar app>
       <Nuxt-link to="/">
         <v-toolbar-title v-text="title" />
       </Nuxt-link>
@@ -13,9 +13,7 @@
           router
           exact
         >
-          <v-list-item-action>
-            <v-icon>{{ item.icon }}</v-icon>
-          </v-list-item-action>
+          <v-icon>{{ item.icon }}</v-icon>
           <v-list-item-content>
             <v-list-item-title v-text="item.title" />
           </v-list-item-content>
@@ -31,8 +29,7 @@
     </v-main>
 
     <!-- FOOTER -->
-    <v-footer :absolute="!fixed" app>
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+    <v-footer app>
     </v-footer>
   </v-app>
 </template>
@@ -42,9 +39,6 @@ export default {
   name: "DefaultLayout",
   data() {
     return {
-      clipped: false,
-      drawer: false,
-      fixed: false,
       items: [
         // {
         //   icon: "mdi-apps",
@@ -66,10 +60,12 @@ export default {
           title: "Survivors Perks",
           to: "/survivors-perks",
         },
+        {
+          icon: "mdi-chart-bubble",
+          title: "Killers Perks",
+          to: "/killers-perks"
+        }
       ],
-      miniVariant: false,
-      right: true,
-      rightDrawer: false,
       title: "Dead By Daylight",
     };
   },

@@ -728,9 +728,10 @@
     },
     {
         "id": "62d979a248575be962b5c1cc",
-        "name": "We'll Gonna Live Forever",
-        "icon": "./survivors-perks/wellgonnaliveforever.webp",
-        "character": "Your few friends deserve the best protection.\n\nIncreases your Healing speed by 100 % when healing a dying Survivor.\n\nWhen performing any of the following actions, We're Gonna Live Forever gains 1 Token:\n\nPerforming a Safe Hook Rescue\n\nTaking a Protection Hit for an injured Survivor.\n\nStunning or Blinding the Killer to rescue a carried Survivor \n\nConsume 1 Tokento grant the Endurance Status Effect for 6/8/10 seconds to any Survivor healed from the Dying State"
+        "name": "We're Gonna Live Forever",
+        "icon": "./survivors-perks/weregonnaliveforever.webp",
+        "character": "David King",
+        "description": "Your few friends deserve the best protection.\n\nIncreases your Healing speed by 100 % when healing a dying Survivor.\n\nWhen performing any of the following actions, We're Gonna Live Forever gains 1 Token:\n\nPerforming a Safe Hook Rescue\n\nTaking a Protection Hit for an injured Survivor.\n\nStunning or Blinding the Killer to rescue a carried Survivor \n\nConsume 1 Tokento grant the Endurance Status Effect for 6/8/10 seconds to any Survivor healed from the Dying State"
     },
     {
         "id": "2d979efed8801eb86e8e95e",
