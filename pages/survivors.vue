@@ -5,8 +5,15 @@
       placeholder="Search for a survivor"
       v-model="search"
     ></v-text-field>
-    <v-list class="d-flex flex-column survivors">
-      <v-list-item v-for="survivor in filteredSurvivors" :key="survivor.id" class="my-13">
+    <div v-if="$fetchState.pending">
+      <p>Content is loading...</p>
+    </div>
+    <v-list class="d-flex flex-column survivors" v-else>
+      <v-list-item
+        v-for="survivor in filteredSurvivors"
+        :key="survivor.id"
+        class="my-13"
+      >
         <div class="d-flex flex-column align-center text-center">
           <img :src="survivor.portrait" alt="" />
           <h2 class="survivors-name">{{ survivor.name }}</h2>
@@ -28,26 +35,25 @@
 export default {
   data() {
     return {
-      search: '',
+      search: "",
       survivors: [],
     };
   },
-  methods: {
-    async fetchSurvivors() {
-      this.survivors = await fetch("/survivors.json").then(res => res.json())
-    },
+  async fetch() {
+    const res = await this.$axios.get('/survivors.json')
+    this.survivors = res.data
   },
+  fetchOnServer: false,
   computed: {
     filteredSurvivors() {
-      return this.survivors.filter(survivor => {
+      return this.survivors.filter((survivor) => {
         if (survivor.name.toLowerCase().includes(this.search.toLowerCase())) {
-          return survivor.name.toLowerCase().includes(this.search.toLowerCase())
+          return survivor.name
+            .toLowerCase()
+            .includes(this.search.toLowerCase());
         }
-      })
+      });
     },
-  },
-  mounted() {
-    this.fetchSurvivors()
   },
 };
 </script>

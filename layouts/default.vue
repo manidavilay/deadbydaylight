@@ -58,12 +58,12 @@ export default {
         {
           icon: "mdi-chart-bubble",
           title: "Survivors Perks",
-          to: "/survivors-perks",
+          to: "/survivors_perks",
         },
         {
           icon: "mdi-chart-bubble",
           title: "Killers Perks",
-          to: "/killers-perks"
+          to: "/killers_perks"
         }
       ],
       title: "Dead By Daylight",
