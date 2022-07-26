@@ -2,7 +2,7 @@
     <section>
         Killers Perks
         <v-text-field
-          placeholder="Search for a killer perk"
+          placeholder="Search for a perk"
           v-model="search"
         ></v-text-field>
         <v-list>
