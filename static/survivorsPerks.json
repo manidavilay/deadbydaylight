@@ -1,0 +1,858 @@
+[
+    {
+        "id": "62d963d7805885ac0cfab684",
+        "name": "Borrowed Time",
+        "icon": "./survivors-perks/borrowedtime.webp",
+        "rank": "<span class='purple--text font-weight-bold'>S</span>",
+        "character": "Bill Overbeck",
+        "description": "You are fuelled with an unexpected energy when saving an ally from a Hook. <br><br> Survivors you unhook benefit from the following effects: <br><br> • Extends the duration of their <span class='amber--text font-italic font-weight-bold'>Endurance</span> Status Effect by <span class='yellow--text font-weight-bold'>6</span>/<span class='green--text font-weight-bold'>8</span>/<span class='purple--text font-weight-bold'>10</span> seconds. <br> • Extends the duration of their <span class='amber--text font-italic font-weight-bold'>Haste</span> Status Effect by <span class='yellow--text font-weight-bold'>+10 seconds</span>."
+    },
+    {
+        "id": "62d9681e344412e7fd029df8",
+        "name": "Decisive Strike",
+        "icon": "./survivors-perks/decisivestrike.webp",
+        "rank": "<span class='purple--text font-weight-bold'>S</span>",
+        "character": "Laurie Strode",
+        "description": "Using whatever is at hand, you stab your aggressor in an ultimate attempt to escape. <br><br> After being unhooked or unhooking yourself, Decisive Strike activates for the next <span class='yellow--text font-weight-bold'>40</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>60</span> seconds: <br><br> When being grabbed or picked up by the Killer, succeed a <span class='amber--text font-italic'>Skill Check</span> to automatically escape their grasp, stunning them for <span class='yellow--text font-weight-bold'>3 seconds</span>. <br> • Successfuly stunning the Killer will disable Decisive Strike for the remainder of the Trial and result in you becoming the <span class='amber--text font-italic font-weight-bold'>Obsession</span>. <br><br> While Decisive Strike is active, performing Conspicuous Actions will deactivate it for the remainder of the Trial. <br><br> Decisive Strike deactivates once the <span class='amber--text font-italic'>Exit Gates</span> are powered. <br><br> Increases the odds of becoming the Killer's initial Obsession by <span class='yellow--text font-weight-bold'>+100 %</span>. <br><br> The Killer can only be obsessed with one Survivor at a time."
+    },
+    {
+        "id": "62d96d084074946328a093b7",
+        "name": "Iron Will",
+        "icon": "./survivors-perks/ironwill.webp",
+        "rank": "<span class='purple--text font-weight-bold'>S</span>",
+        "character": "Jake Park",
+        "description": "You are able to concentrate and enter a meditative-like state to numb some pain. <br><br> • Reduces the volume of Grunts of Pain while in the <span class='amber--text font-italic'>Injured State</span> by <span class='yellow--text font-weight-bold'>25</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>75</span> %. <br><br> Iron Will cannot be used when suffering from Exhaustion, but does not cause the <span class='amber--text font-italic font-weight-bold'>Exhausted</span> Status Effect."
+    },
+    {
+        "id": "62d967888c0c4012ceec661d",
+        "name": "Dead Hard",
+        "icon": "./survivors-perks/deadhard.webp",
+        "rank": "<span class='purple--text font-weight-bold'>S</span>",
+        "character": "David King", 
+        "description": "Activate-able Perk. <br><br> You can take a beating. <br><br> When you are injured, tap into your adrenaline bank to avoid damage. <br><br> • Press the Active Ability button while running to trigger the <span class='amber--text font-italic font-weight-bold'>Endurance</span> Status Effect for <span class='yellow--text font-weight-bold'>0.5 seconds</span>. <br><br> Dead Hard causes the <span class='amber--text font-italic font-weight-bold'>Exhausted</span> Status Effect for <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>40</span> seconds. <br><br> Dead Hard cannot be used when Exhausted."
+    },
+    {
+        "id": "62d9784522571f12d94e49be",
+        "name": "Unbreakable",
+        "icon": "./survivors-perks/unbreakable.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Bill Overbeck",
+        "description": "Past battles have taught you a thing or two about survival. Once per Trial, you can completely recover from the <span class='amber--text font-italic'>Dying State</span>. <br><br> • Your Recovery speed is increased by <span class='yellow--text font-weight-bold'>25</span>/<span class='green--text font-weight-bold'>30</span>/<span class='purple--text font-weight-bold'>35</span> %."
+    },
+    {
+        "id": "62d97a1cecf656ee36e14233",
+        "name": "Windows of Opportunity",
+        "icon": "./survivors-perks/windowsofopportunity.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Kate Denson",
+        "description": "Unlocks potential in your Aura-reading ability. <br><br> The <span class='amber--text font-italic'>Auras</span> of <span class='amber--text font-italic'>Breakable Walls</span>, <span class='amber--text font-italic'>Pallets</span>, and <span class='amber--text font-italic'>Windows</span> are revealed to you within <span class='yellow--text font-weight-bold'>24</span>/<span class='green--text font-weight-bold'>28</span>/<span class='purple--text font-weight-bold'>32</span> metres."
+    },
+    {
+        "id": "62d9721e3cc7c46ed59ab81f",
+        "name": "Prove Thyself",
+        "icon": "./survivors-perks/provethyself.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Dwight Fairfield",
+        "description": "• Increases your Repair speed by <span class='yellow--text font-weight-bold'>+15 %</span> for each other <span class='amber--text font-italic'>Survivor</span> within <span class='orange--text font-weight-bold'>4 metres</span> of your location, up to  maximum of <span class='red--text font-weight-bold'>+45 %</span>. <br> • This effect is also applied to all other Survivors within that range. <br> • Grants <span class='yellow--text font-weight-bold'>50</span>/<span class='green--text font-weight-bold'>75</span>/<span class='purple--text font-weight-bold'>100</span> % bonus <span class='amber--text font-italic'>Bloodpoints</span> for Co-operative actions. <br><br> Prove Thyself does not stack with other instances of itself."
+    },    
+    {
+        "id": "62d96d3dbce3fb663291cd95",
+        "name": "Kindred",
+        "icon": "./survivors-perks/kindred.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "All",
+        "description": "Unlocks potential in your Aura-reading ability: <br><br> While you are hooked: <br><br> • The <span class='amber--text font-italic'>Auras</span> of all <span class='amber--text font-italic'>Survivors</span> are revealed to one another. <br> • Whenever the Killer is within <span class='yellow--text font-weight-bold'>8</span>/<span class='green--text font-weight-bold'>12</span>/<span class='purple--text font-weight-bold'>16</span> metres of your Hook, their Aura is revealed to all Survivors. <br><br> While any other Survivor is hooked: <br><br> • The Auras of all other Survivors are revealed to you. <br> • Whenever the Killer is within <span class='yellow--text font-weight-bold'>8</span>/<span class='green--text font-weight-bold'>12</span>/<span class='purple--text font-weight-bold'>16</span> metres of the hooked Survivor, their Aura is revealed to you."
+    },
+    {
+        "id": "62d9624aaf6c967d476677d6",
+        "name": "Boon: Circle of Healing",
+        "icon": "./survivors-perks/booncircleofhealing.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Mikaela Reid",
+        "description": "A Boon that offers comfort amidst the terror. <br><br> Press and hold the Active Ability button near a Dull or Hex Totem to bless it and create a <span class='amber--text font-italic font-weight-bold'>Boon Totem</span>. <br><br> Soft chimes ring out within a radius of <span class='yellow--text font-weight-bold'>24 metres</span>. <br><br> Survivors inside the Boon Totem's range benefit from the following effects: <br><br> • Increases all Healing speeds by <span class='yellow--text font-weight-bold'>40</span>/<span class='green--text font-weight-bold'>45</span>/<span class='purple--text font-weight-bold'>50</span> %. <br> • Unlocks the Self-Care ability, allowing you to self-heal without needing a <span class='amber--text font-italic'>Med-Kit</span> at <span class='yellow--text font-weight-bold'>50 %</span> of the normal Healing speed. <br><br> Boon: Circle of Healing benefits from its own effect. <br> Boon: Circle of Healing does not stack with other instances of itself. <br><br> You can only bless one Totem at a time. <br><br> All equipped Boon Perks are active on the same Boon Totem."
+    },
+    {
+        "id": "62d976dc68e00950cec4e3e3",
+        "name": "Spine Chill",
+        "icon": "./survivors-perks/spinechill.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "All",
+        "description": "An unnatural tingle warns you of impending doom. <br><br> • Whenever the <span class='amber--text font-italic'>Killer</span> is within <span class='yellow--text font-weight-bold'>36 metres</span> of your location, Spine Chill activates, lighting up its icon. <br> • If there is a <span class='amber--text font-italic'>Terror Radius</span> present, Spine Chill will reveal its intensity using its icon. <br><br> If the Killer is within range and looking at you with a clear line of sight, you benefit from the following effect: <br><br> • Increases your Action speeds in Repairing, Healing, Sabotaging, Unhooking, Cleansing, Blessing, Opening, and Unlocking by <span class='yellow--text font-weight-bold'>2</span>/<span class='green--text font-weight-bold'>4</span>/<span class='purple--text font-weight-bold'>6</span> %. <br> • This effect lingers for <span class='orange--text font-weight-bold'>0.5 seconds</span>."
+    },
+    {
+        "id": "62d979a248575be962b5c1cc",
+        "name": "We're Gonna Live Forever",
+        "icon": "./survivors-perks/weregonnaliveforever.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "David King",
+        "description": "Your few friends deserve the best protection. <br><br> • Increases your Healing speed by <span class='yellow--text font-weight-bold'>100 %</span> when healing a dying <span class='amber--text font-italic'>Survivor</span>. <br><br> When performing any of the following actions, We're Gonna Live Forever gains <span class='orange--text font-weight-bold'>1 Token</span>: <br><br> • Performing a Safe Hook Rescue <br> • Taking a <span class='amber--text font-italic'>Protection Hit</span> for an injured Survivor. <br> • Stunning or Blinding the Killer to rescue a carried Survivor <br><br> Consume <span class='red--text font-weight-bold'>1 Token</span> to grant the <span class='amber--text font-italic font-weight-bold'>Endurance</span> Status Effect for <span class='yellow--text font-weight-bold'>6</span>/<span class='green--text font-weight-bold'>8</span>/<span class='purple--text font-weight-bold'>10</span> seconds to any Survivor healed from the <span class='amber--text font-italic'>Dying State</span>."
+    },
+    {
+        "id": "62d96e441b1504893f78047b",
+        "name": "Lithe",
+        "icon": "./survivors-perks/lithe.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Feng Min",
+        "description": "After performing a rushed vault, break into a sprint of <span class='yellow--text font-weight-bold'>150 %</span> of your normal Running Movement speed for a maximum of <span class='orange--text font-weight-bold'>3 seconds</span>. <br><br> Lithe causes the <span class='amber--text font-italic font-weight-bold'>Exhausted</span> Status Effect for <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>40</span> seconds. <br><br> Lithe cannot be used when Exhausted."
+    },
+    {
+        "id": "62d9769293153aafecdca7f6",
+        "name": "Soul Guard",
+        "icon": "./survivors-perks/soulguard.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Cheryl Mason",
+        "description": "You have been through immense hardship and you're stronger for it. <br><br> After being healed from or having recovered from the <span class='amber--text font-italic'>Dying State</span>, Soul Guard grants you the <span class='amber--text font-italic font-weight-bold'>Endurance</span> Status Effect for the next <span class='yellow--text font-weight-bold'>4</span>/<span class='green--text font-weight-bold'>6</span>/<span class='purple--text font-weight-bold'>8</span> seconds. <br><br> • Any damage taken that would put you into the Dying State will instead trigger the <span class='amber--text font-italic font-weight-bold'>Deep Wound</span> Status Effect, after which you have <span class='yellow--text font-weight-bold'>20 seconds</span> to Mend yourself. <br> • Taking any damage while under the effect of Deep Wound or if its timer runs out will put you into the Dying State. <br><br> Soul Guard allows you to completely recover from the Dying State when you are affected by the <span class='amber--text font-italic font-weight-bold'>Cursed</span> Status Effect. <br><br> Soul Guard has a cool-down of <span class='orange--text font-weight-bold'>30 seconds</span>."
+    },
+    {
+        "id": "62d95d591ed9ad53d868a628",
+        "name": "Adrenaline",
+        "icon": "./survivors-perks/adrenaline.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Meg Thomas",
+        "description": "You are fuelled by unexpecting energy when on the verge of escape. <br><br> • Once the <span class='amber--text font-italic'>Exit Gates</span> are powered, <span class='yellow--text font-weight-bold'>instantly heal one</span> <span class='amber--text font-italic'>Health State</span> and sprint at <span class='orange--text font-weight-bold'>150 %</span> of your normal Running Movement speed for <span class='red--text font-weight-bold'>5 seconds</span>. <br> • Adrenaline is on hold if you are disabled at the moment it triggers and will instead activate upon being freed. <br> • If playing against The <span class='amber--text font-italic'>Nightmare</span>, Adrenaline will wake you from the <span class='amber--text font-italic'>Dream World</span> upon activation. <br><br> Adrenaline ignores an existing Exhaustion timer, but causes the <span class='amber--text font-italic font-weight-bold'>Exhausted</span> Status Effect for <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>40</span> seconds."
+    },
+    {
+        "id": "62d96205c90d022c20b6dc1f",
+        "name": "Bond",
+        "icon": "./survivors-perks/bond.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Dwight Fairfield",
+        "description": "Unlocks potential in your Aura-reading ability: <br><br> • The <span class='amber--text font-italic'>Auras</span> of all other <span class='amber--text font-italic'>Survivors</span> within <span class='yellow--text font-weight-bold'>20</span>/<span class='green--text font-weight-bold'>28</span>/<span class='purple--text font-weight-bold'>36</span> metres of your location are revealed to you."
+    },
+    {
+        "id": "62d978db5b460ef64f87f888",
+        "name": "Vigil",
+        "icon": "./survivors-perks/vigil.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Quentin Smith",
+        "description": "You look over your friends even in dire situations. <br><br> • Increases your Recovery rate from the <span class='amber--text font-italic font-weight-bold'>Blindness</span>, <span class='amber--text font-italic font-weight-bold'>Broken</span>, <span class='amber--text font-italic font-weight-bold'>Exhaustion</span>, <span class='amber--text font-italic font-weight-bold'>Exposed</span>, <span class='amber--text font-italic font-weight-bold'>Haemorrhage</span>, <span class='amber--text font-italic font-weight-bold'>Hindered</span>, and <span class='amber--text font-italic font-weight-bold'>Oblivious</span> Status Effects by <span class='yellow--text font-weight-bold'>20</span>/<span class='green--text font-weight-bold'>25</span>/<span class='purple--text font-weight-bold'>30</span> %. <br> • This effect also applies to all other Survivors within <span class='yellow--text font-weight-bold'>8 metres</span> of your location and lingers for <span class='orange--text font-weight-bold'>15 seconds</span>."
+    },
+    {
+        "id": "62d977dbc4a6c55c304066c5",
+        "name": "Tenacity",
+        "icon": "./survivors-perks/tenacity.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "David Tapp",
+        "description": "There is nothing stopping you. <br><br> Your ferocious tenacity in dire situations allow you to benefit from the following effects: <br><br> • Increases your Crawling speed by <span class='yellow--text font-weight-bold'>30</span>/<span class='green--text font-weight-bold'>40</span>/<span class='purple--text font-weight-bold'>50</span> %. <br> • Grants the ability to crawl and recover at the same time. <br> • Reduces the volume of Grunts of Pain while in the <span class='amber--text font-italic'>Dying State</span> by <span class='yellow--text font-weight-bold'>-75 %</span>."
+    },
+    {
+        "id": "62d968ef8b9b8f72b830ef44",
+        "name": "Delivrance",
+        "icon": "./survivors-perks/delivrance.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Adam Francis",
+        "description": "After performing a Safe Hook Rescue on another Survivor, Deliverance activates: <br><br> • Your Self-Unhook attempts will succeed <span class='yellow--text font-weight-bold'>100 %</span> of the time. <br><br> Deliverance causes the <span class='amber--text font-italic font-weight-bold'>Broken</span> Status Effect for <span class='yellow--text font-weight-bold'>100</span>/<span class='green--text font-weight-bold'>80</span>/<span class='purple--text font-weight-bold'>60</span> seconds after unhooking yourself."
+    },
+    {
+        "id": "62d977151df6a71069380414",
+        "name": "Sprint Burst",
+        "icon": "./survivors-perks/sprintburst.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Meg Thomas",
+        "description": "• When starting to run, break into a sprint at <span class='yellow--text font-weight-bold'>150 %</span> of your normal Running Movement speed for <span class='orange--text font-weight-bold'>3 seconds</span>. <br><br> Sprint Burst causes the <span class='amber--text font-italic font-weight-bold'>Exhausted</span> Status Effect for <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>40</span> seconds. <br><br> Sprint Burst cannot be used when Exhausted."
+    },
+    {
+        "id": "62d9641cced2b77d1b3f7f8f",
+        "name": "Botany Knowledge",
+        "icon": "./survivors-perks/botanyknowledge.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Claudette Morel",
+        "description": "You transform plants found around <span class='amber--text font-italic'>The Campfire</span> into tinctures that slow down bleeding. <br><br> • Increases your Healing speed by <span class='yellow--text font-weight-bold'>30</span>/<span class='green--text font-weight-bold'>40</span>/<span class='purple--text font-weight-bold'>50</span> %. <br> • Reduces the Healing efficiency of <span class='amber--text font-italic'>Med-Kits</span> by <span class='yellow--text font-weight-bold'>-20 %</span>."
+    },
+    {
+        "id": "62d96ade8db2401754e5de9d",
+        "name": "Flashbang",
+        "icon": "./survivors-perks/flashbang.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Leon Scott Kennedy",
+        "description": "You have adapted to a world in chaos and making what you can from the debris. <br><br> After repairing <span class='amber--text font-italic'>Generators</span> for a total of <span class='yellow--text font-weight-bold'>70</span>/<span class='green--text font-weight-bold'>60</span>/<span class='purple--text font-weight-bold'>50</span> %, Flashbang activates: <br><br> • Enter a <span class='amber--text font-italic'>Locker</span> while empty-handed and press the Ability button to craft a <span class='amber--text font-italic'>Flash Grenade</span>. <br><br> The Flashbang is left behind when escaping the Trial."
+    },
+    {
+        "id": "62d971058c6e63e263292720",
+        "name": "Pharmacy",
+        "icon": "./survivors-perks/pharmacy.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Quentin Smith",
+        "description": "You have a knack for finding medicine. <br><br> Whenever you are in the <span class='amber--text font-italic'>Injured State</span>, Pharmacy activates: <br><br> • Increases the Unlocking speed of <span class='amber--text font-italic'>Chests</span> by <span class='yellow--text font-weight-bold'>40</span>/<span class='green--text font-weight-bold'>60</span>/<span class='purple--text font-weight-bold'>80</span> %. <br> • Reduces the Hearing range of noises related to Unlocking by <span class='yellow--text font-weight-bold'>-8 metres</span>. <br> • Guarantees an <span class='amber--text font-italic'>Emergency Med-Kit</span> when unlocking a <span class='amber--text font-italic'>Chest</span>."
+    },
+    {
+        "id": "62d96a48ad16087e0285f792",
+        "name": "Empathy",
+        "icon": "./survivors-perks/empathy.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Claudette Morel",
+        "description": "Unlocks potential in your Aura-reading ability: <br><br> • The <span class='amber--text font-italic'>Auras</span> of <span class='amber--text font-italic'>Survivors</span> in the <span class='amber--text font-italic'>Injured State</span> or in the <span class='amber--text font-italic'>Dying State</span> within <span class='yellow--text font-weight-bold'>64</span>/<span class='green--text font-weight-bold'>96</span>/<span class='purple--text font-weight-bold'>128</span> metres of your location are revealed to you. <br><br> Empathy does not reveal the Aura of a Survivor being carried by the <span class='amber--text font-italic'>Killer</span>."
+    },
+    {
+        "id": "62d9604b97ac3fd6267735e0",
+        "name": "Balanced Landing",
+        "icon": "./survivors-perks/balancedlanding.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Nea Karlsson",
+        "description": "Your agility and cat-like relexes are incomparable. When falling from great heights, you benefit from the following effects: <br><br> • Reduces the <span class='amber--text font-italic'>Stagger</span> duration by <span class='yellow--text font-weight-bold'>75 %</span>. <br> • Suppresses Grunts of Exertion from falling. <br> • Upon landing, break into a sprint at <span class='orange--text font-weight-bold'>150 %</span> of your normal Running Movement speed for <span class='red--text font-weight-bold'>3 seconds</span>. <br><br> Balanced Landing causes the <span class='amber--text font-italic font-weight-bold'>Exhausted</span> Status Effect for <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>40</span> seconds. <br><br> Balanced Landing cannot be used when Exhausted."
+    },
+    {
+        "id": "62d97063767b70698a846da2",
+        "name": "Overcome",
+        "icon": "./survivors-perks/overcome.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Jonah Vasquez",
+        "description": "You have calculated how much energy you can risk to expend. <br><br> Whenever you become injured, you retain the Movement Speed burst for <span class='yellow--text font-weight-bold'>2 additional seconds</span>. <br><br> Overcome causes the <span class='amber--text font-italic font-weight-bold'>Exhausted</span> Status Effect for <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>40</span> seconds. <br><br> Overcome cannot be used when Exhausted."
+    },
+    {
+        "id": "62d979705f55eefdeaac5d05",
+        "name": "Wake Up",
+        "icon": "./survivors-perks/wakeup.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Quentin Smith",
+        "description": "Unlocks potential in your Aura-reading ability. <br><br> Once all <span class='amber--text font-italic'>Generators</span> are completed, Wake Up! activates: <br><br> • The <span class='amber--text font-italic'>Auras</span> of the <span class='amber--text font-italic'>Exit Gate Switches</span> are revealed to you within <span class='yellow--text font-weight-bold'>128 metres</span>. <br> • When opening an Exit Gate, your Aura is revealed to all other Survivors within <span class='orange--text font-weight-bold'>128 metres</span>. <br> • You open Exit Gates <span class='yellow--text font-weight-bold'>15</span>/<span class='green--text font-weight-bold'>20</span>/<span class='purple--text font-weight-bold'>25</span> % faster."
+    },
+    {
+        "id": "2d979efed8801eb86e8e95e",
+        "name": "We'll Make It", 
+        "icon": "./survivors-perks/wellmakeit.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "All",
+        "description": "Helping others heightens your morale. <br><br> • Increases your Altruistic Healing speed by <span class='yellow--text font-weight-bold'>100 %</span> for the next <span class='yellow--text font-weight-bold'>30</span>/<span class='green--text font-weight-bold'>60</span>/<span class='purple--text font-weight-bold'>90</span> seconds whenever you rescue another Survivor from a <span class='amber--text font-italic'>Hook</span>."
+    },
+    {
+        "id": "62d9647efe895573dcef9734",
+        "name": "Breakdown",
+        "icon": "./survivors-perks/breakdown.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Jeff Johansen",
+        "description": "Each time you are unhooked or unhook yourself, the <span class='amber--text font-italic'>Hook</span> breaks and the Killer's <span class='amber--text font-italic'>Aura</span> is revealed to you for <span class='yellow--text font-weight-bold'>4</span>/<span class='green--text font-weight-bold'>5</span>/<span class='purple--text font-weight-bold'>6</span> seconds. <br><br> • A Hook broken by Breakdown takes <span class='yellow--text font-weight-bold'>180 seconds</span> to respawn."
+    },
+    {
+        "id": "62d967cd5de5f29ec2a49721",
+        "name": "Deception",
+        "icon": "./survivors-perks/deception.webp",
+  "rank": "<span class='green--text font-weight-bold'>A</span>",
+        "character": "Élodie Rakoto",
+        "description": "Your adventurous lifestyle requires moments of crafty misdirection. <br><br> Interact with a <span class='amber--text font-italic'>Locker</span> while holding the Sprint button to trigger a <span class='amber--text font-italic'>Loud Noise Notification</span> for the killer at your location instead of entering the Locker. <br><br> • You will not leave any <span class='amber--text font-italic'>Scratch Marks</span> or <span class='amber--text font-italic'>Pools of Blood</span> for the next <span class='yellow--text font-weight-bold'>3 seconds</span>. <br><br> Deception can only be triggered once every <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>40</span> seconds."
+    },
+    {
+        "id": "62d973ef2cd2bd4e68412fc6",
+        "name": "Resilience",
+        "icon": "./survivors-perks/resilience.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "All",
+        "description": "You are motivated in dire situations. <br><br> • Increases your Action speeds in Repairing, Healing, Sabotaging, Unhooking, Vaulting, Cleansing, Opening, and Unlocking by <span class='yellow--text font-weight-bold'>3</span>/<span class='green--text font-weight-bold'>6</span>/<span class='purple--text font-weight-bold'>9</span> % when in the <span class='amber--text font-italic'>Injured State</span>."
+    },
+    {
+        "id": "62d96be955d477bd75c7b015",
+        "name": "Head On",
+        "icon": "./survivors-perks/headon.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Jane Romero",
+        "description": "When your mind is set, there better be no one standing in your way. <br><br> While standing in a <span class='amber--text font-italic font-weight-bold'>Locker</span> for <span class='yellow--text font-weight-bold'>3 seconds</span>, Head On activates: <br><br> • When performing a rushed action to leave a Locker, stun the Killer for <span class='orange--text font-weight-bold'>3 seconds</span> if they are within range. Head On causes the <span class='amber--text font-italic font-weight-bold'>Exhausted</span> Status Effect for <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>40</span> seconds. <br><br> Head On cannot be used when Exhausted or when you have accrued <span class='amber--text font-italic'>Idle Crows</span>."
+    },
+    {
+        "id": "62d960f58d4b0720a7c414b4",
+        "name": "Blast Mine",
+        "icon": "./survivors-perks/blastmine.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Jill Valentine",
+        "description": "When direct combat is not an option, you still find ways to strike back. <br><br> After repairing <span class='amber--text font-italic'>Generators</span> for a total of <span class='yellow--text font-weight-bold'>66 %</span>, Blast Mine activates: <br><br> • After repairing a Generator for at least <span class='orange--text font-weight-bold'>3 seconds</span>, press the Ability button to install a Trap, which stays active for <span class='yellow--text font-weight-bold'>35</span>/<span class='green--text font-weight-bold'>40</span>/<span class='purple--text font-weight-bold'>45</span> seconds. <br> • The <span class='amber--text font-italic'>Aura</span> of Trapped Generators are revealed in <span class='yellow--text font-weight-bold'>yellow</span> to all <span class='amber--text font-italic'>Survivors</span>. <br> • When the <span class='amber--text font-italic'>Killer</span> damages a Trapped Generator, the Trap explodes, stunning them and blinding anyone nearby. <br><br> Blast Mine deactivates after triggering successfully."
+    },
+    {
+        "id": "62d95e6245ce8e6600365cdd",
+        "name": "Alert",
+        "icon": "./survivors-perks/alert.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Feng Min",
+        "description": "Your acute senses are on high alert. <br><br> Whenever the Killer destroys a <span class='amber--text font-italic'>Pallet</span> or a <span class='amber--text font-italic'>Breakable Wall</span>, or damages a <span class='amber--text font-italic'>Generator</span>, their <span class='amber--text font-italic'>Aura</span> is revealed to you for <span class='yellow--text font-weight-bold'>3</span>/<span class='green--text font-weight-bold'>4</span>/<span class='purple--text font-weight-bold'>5</span> seconds."
+    },
+    {
+        "id": "62d95ecae793181dbcd47098",
+        "name": "Any Means Necessary",
+        "icon": "./survivors-perks/anymeansnecessary.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Yui Kimura",
+        "description": "You stand up for yourself, using whatever's on hand to gain an advantage. <br><br> You see the <span class='amber--text font-italic'>Auras</span> of dropped <span class='amber--text font-italic'>Pallets</span>. <br><br> Press and hold the Active Ability button for <span class='yellow--text font-weight-bold'>4 seconds</span> while standing beside a dropped Pallet to reset it to its upright position. <br><br> Any Means Necessary has a cool-down of <span class='yellow--text font-weight-bold'>100</span>/<span class='green--text font-weight-bold'>80</span>/<span class='purple--text font-weight-bold'>60</span> seconds."
+    },
+    {
+        "id": "62d96711c5fb9c035929a72e",
+        "name": "Dance with Me",
+        "icon": "./survivors-perks/dancewithme.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Kate Denson",
+        "description": "When performing a rushed action to vault a <span class='amber--text font-italic'>Window</span>, <span class='amber--text font-italic'>Pallet</span>, or leave a <span class='amber--text font-italic'>Locker</span>, you will not leave any <span class='amber--text font-italic'>Scratch Marks</span> for the next <span class='yellow--text font-weight-bold'>3 seconds</span>. <br><br> Dance With Me has a cool-down of <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>40</span> seconds."
+    },
+    {
+        "id": "62d974cd40c750cb7b7ed284",
+        "name": "Self Aware",
+        "icon": "./survivors-perks/selfaware.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "All",
+        "description": "You know your weaknesses and refuse to hide from them. <br><br> You walk <span class='yellow--text font-weight-bold'>10</span>/<span class='green--text font-weight-bold'>15</span>/<span class='purple--text font-weight-bold'>20</span> % faster and can see your own <span class='amber--text font-italic'>Scratch Marks</span>."
+    },
+    {
+        "id": "62d9691c11524eea82bc50ab",
+        "name": "Desperate Measures",
+        "icon": "./survivors-perks/desperatemeasures.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Felix Richter",
+        "description": "You refuse to fail, even during your darkest hour. <br><br> Increases Healing and Unhooking speeds by <span class='yellow--text font-weight-bold'>10</span>/<span class='green--text font-weight-bold'>12</span>/<span class='purple--text font-weight-bold'>14</span> % for each injured, hooked, or dying Survivor, up to a maximum of <span class='yellow--text font-weight-bold'>40</span>/<span class='green--text font-weight-bold'>48</span>/<span class='purple--text font-weight-bold'>56</span> %."
+    },
+    {
+        "id": "62d95dd1cd9a6eb875c5d62b",
+        "name": "Aftercare",
+        "icon": "./survivors-perks/aftercare.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Jeff Johansen",
+        "description": "Unlocks potential in your Aura-reading ability. <br><br> You see the <span class='amber--text font-italic'>Aura</span> of the last <span class='yellow--text font-weight-bold'>1</span>/<span class='green--text font-weight-bold'>2</span>/<span class='purple--text font-weight-bold'>3</span> Survivor(s): <br><br> • You have rescued from a <span class='amber--text font-italic'>Hook</span>, or who have rescued you from a Hook. <br> • You have completed a Healing action on, or who have completed a Healing action on you. <br> • They also see your Aura. <br><br> All effects of Aftercare are reset upon being hooked by the <span class='amber--text font-italic'>Killer</span>."
+    },
+    {
+        "id": "62d965701e7023957513ccaf",
+        "name": "Build To Last",
+        "icon": "./survivors-perks/buildtolast.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Felix Richter",
+        "description": "You know how to get the most out of your tools. <br><br> Hiding inside a <span class='amber--text font-italic'>Locker</span> for <span class='yellow--text font-weight-bold'>14</span>/<span class='green--text font-weight-bold'>13</span>/<span class='purple--text font-weight-bold'>12</span> seconds while carrying a depleted <span class='amber--text font-italic'>Item</span> will replenish its Charges to <span class='yellow--text font-weight-bold'>99 %</span>. <br><br> Each use of Built to Last reduces this percentage by <span class='orange--text font-weight-bold'>-33 %</span>."
+    },
+    {
+        "id": "62d969411bdfa29672824b58",
+        "name": "Detective's Hunch",
+        "icon": "./survivors-perks/detectiveshunch.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "David Tapp",
+        "description": "Unlocks potential in your Aura-reading ability. <br><br> Each time a Generator is completed, the <span class='amber--text font-italic'>Auras</span> of any <span class='amber--text font-italic'>Generators</span>, <span class='amber--text font-italic'>Chests</span>, and <span class='amber--text font-italic'>Totems</span> within <span class='yellow--text font-weight-bold'>32</span>/<span class='green--text font-weight-bold'>48</span>/<span class='purple--text font-weight-bold'>64</span> metres are revealed to you for <span class='orange--text font-weight-bold'>10 seconds</span>. <br><br> • If you are holding a <span class='amber--text font-italic'>Map</span>, any objects revealed by Detective's Hunch will automatically be tracked by it."
+    },
+    {
+        "id": "62d9702ba7c9275a71c19d02",
+        "name": "Open Handed",
+        "icon": "./survivors-perks/openhanded.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Ace Visconti",
+        "description": "Strengthens the potential in your and your team's Aura-reading abilities. <br><br> Open-Handed increases all Aura-reading ranges by <span class='yellow--text font-weight-bold'>8</span>/<span class='green--text font-weight-bold'>12</span>/<span class='purple--text font-weight-bold'>16</span> metres. <br><br> Open-Handed does not stack with other instances of itself."
+    },
+    {
+        "id": "62d96db302617e497d746915",
+        "name": "Leader",
+        "icon": "./survivors-perks/leader.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Dwight Fairfield",
+        "description": "You are able to organise a team to cooperate more efficiently. <br><br> • Increases the Action speeds of other <span class='amber--text font-italic'>Survivors</span> in Healing, Sabotaging, Unhooking, Cleansing, Opening, and Unlocking by <span class='yellow--text font-weight-bold'>15</span>/<span class='green--text font-weight-bold'>20</span>/<span class='purple--text font-weight-bold'>25</span> % while they are within <span class='yellow--text font-weight-bold'>8 metres</span> of your location. <br> • This effect lingers for <span class='orange--text font-weight-bold'>15 seconds</span> when leaving Leader's range. <br><br> Leader does not stack with other instances of itself."
+    },
+    {
+        "id": "62d9637836b11e8d7bacfb53",
+        "name": "Boon: Shadow Step",
+        "icon": "./survivors-perks/boonshadowstep.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Mikaela Reid",
+        "description": "A Boon that conceals the truth. <br><br> Press and hold the Active Ability button near a Dull or Hex Totem to bless it and create a <span class='amber--text font-italic font-weight-bold'>Boon Totem</span>. <br><br> Soft chimes ring out within a radius of <span class='yellow--text font-weight-bold'>24 metres</span>. <br><br> Survivors inside the Boon Totem's range benefit from the following effects: <br><br> • <span class='amber--text font-italic'>Scratch Marks</span> are suppressed. <br> • <span class='amber--text font-italic'>Auras</span> are hidden from The Killer. <br> • Both effects linger for <span class='yellow--text font-weight-bold'>2</span>/<span class='green--text font-weight-bold'>3</span>/<span class='purple--text font-weight-bold'>4</span> seconds after leaving the Boon Totem's range. <br><br> You can only bless one Totem at a time. <br><br> All equipped Boon Perks are active on the same Boon Totem."
+    },
+    {
+        "id": "62d961bf7e1f2a512f3c0530",
+        "name": "Boil Over",
+        "icon": "./survivors-perks/boilover.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Kate Denson",
+        "description": "You are a battler and do everything to escape a foe's grasp. <br><br> While being carried by the <span class='amber--text font-italic'>Killer</span>, the following effects apply: <br><br> • Increases the intensity of the Struggle Effects on the Killer from your Wiggling by <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>70</span>/<span class='purple--text font-weight-bold'>80</span> %. <br> • Obscures the <span class='amber--text font-italic'>Auras</span> of all <span class='amber--text font-italic'>Hooks</span> from the Killer's Aura-reading abilities within <span class='yellow--text font-weight-bold'>16 metres</span>. <br> • Fills your Wiggle Meter by <span class='orange--text font-weight-bold'>33 %</span> of your current Wiggle progression upon landing, when the Killer drops from great heights."
+    },
+    {
+        "id": "62d972acb76fe9607809f085",
+        "name": "Quick and Quiet",
+        "icon": "./survivors-perks/quickandquiet.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Meg Thomas",
+        "description": "You do not make as much noise as others when quickly vaulting over obstacles or hiding in Lockers. <br><br> • Suppresses both the <span class='amber--text font-italic'>Loud Noise Notification</span> and the sound effects triggered by rushing to vault <span class='amber--text font-italic'>Windows</span>, <span class='amber--text font-italic'>Pallets</span>, or rushing to enter or exit <span class='amber--text font-italic'>Lockers</span>. <br><br> Quick & Quiet has a cool-down of <span class='yellow--text font-weight-bold'>30</span>/<span class='green--text font-weight-bold'>25</span>/<span class='purple--text font-weight-bold'>20</span> seconds."
+    },
+    {
+        "id": "62d96cceb24b9f39f98edbec",
+        "name": "Inner Healing",
+        "icon": "./survivors-perks/innerhealing.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "All",
+        "description": "You look inwards and trust your instincts when you feel lost and alone. <br><br> Each time you cleanse a <span class='amber--text font-italic'>Totem</span>, Inner Healing activates: <br><br> • You are automatically healed <span class='yellow--text font-weight-bold'>1 Health State</span> when hiding inside a <span class='amber--text font-italic'>Locker</span> for <span class='yellow--text font-weight-bold'>10</span>/<span class='green--text font-weight-bold'>9</span>/<span class='purple--text font-weight-bold'>8</span> seconds while injured or suffering from the <span class='amber--text font-italic font-weight-bold'>Deep Wound</span> Status Effect. <br><br> Inner Healing does not activate if you currently suffer from the <span class='amber--text font-italic font-weight-bold'>Broken</span> Status Effect."
+    },
+    {
+        "_id": "62d9535c9c78b0769e663fa7",
+        "name": "Ace in the Hole",
+        "icon": "./survivors-perks/aceinthehole.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Ace Visconti",
+        "description": "Lady Luck always seems to be throwing something good your way. <br><br> When retrieving an <span class='amber--text font-italic'>Item</span> from a <span class='amber--text font-italic'>Chest</span>, there is a chance an <span class='amber--text font-italic'>Add-on</span> will be attached to it. <br><br> • <span class='yellow--text font-weight-bold'>100 %</span> chance for an Add-on of <span class='purple--text font-weight-bold'>Very Rare</span> Rarity or lower. <br> • <span class='yellow--text font-weight-bold'>10</span>/<span class='green--text font-weight-bold'>25</span>/<span class='purple--text font-weight-bold'>50</span> % chance for a second Add-on of <span class='yellow--text font-weight-bold'>Uncommon</span> Rarity or lower. <br><br> Ace in the Hole allows you to keep any Add-ons your Item has equipped upon escaping."
+    },
+    {
+        "id": "62d9766252abb082834e681e",
+        "name": "Solidarity",
+        "icon": "./survivors-perks/solidarity.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Jane Romero",
+        "description": "Sharing painful experiences has the power to heal. <br><br> When injured, healing another <span class='amber--text font-italic'>Survivor</span> without using a <span class='amber--text font-italic'>Med-Kit</span> also heals you with a Conversion rate of <span class='yellow--text font-weight-bold'>40</span>/<span class='green--text font-weight-bold'>45</span>/<span class='purple--text font-weight-bold'>50</span> %."
+    },
+    {
+        "id": "62d97417b74769087d717c13",
+        "name": "Resurgence",
+        "icon": "./survivors-perks/resurgence.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Jill Valentine",
+        "description": "You have come back from near impossible odds... and you will do it again. <br><br> After being unhooked or unhooking yourself, instantly gain <span class='yellow--text font-weight-bold'>40</span>/<span class='green--text font-weight-bold'>45</span>/<span class='purple--text font-weight-bold'>50</span> % to your Healing progress."
+    },
+    {
+        "id": "62d96e6e2a694590e4b6395b",
+        "name": "Lucky Break",
+        "icon": "./survivors-perks/luckybreak.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Yui Kimura",
+        "description": "You have had your share of scrapes and bruises, but luck is always on your side. <br><br> Whenever you are in the <span class='amber--text font-italic'>Injured State</span>, Lucky Break activates: <br><br> • Suppresses your <span class='amber--text font-italic'>Pools of Blood</span> and <span class='amber--text font-italic'>Scratch Marks</span> for a maximum of <span class='yellow--text font-weight-bold'>40</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>60</span> seconds, after which Lucky Break deactivates. <br><br> Each <span class='yellow--text font-weight-bold'>1 second</span> spent healing another Survivor recharges Lucky Break by <span class='orange--text font-weight-bold'>1 second</span> up to its maximum Effect duration. <br><br> Lucky Break also deactivates whenever you are <span class='amber--text font-italic'>Healthy</span> or in the <span class='amber--text font-italic'>Dying State</span>."
+    },
+    {
+        "id": "62d96b50ede2daf22f523ea9",
+        "name": "For the People",
+        "icon": "./survivors-perks/forthepeople.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Zarina Kassir",
+        "description": "You risk life and injury for others. <br><br> For the People is only active while at full health. <br><br> • Press the Active Ability button while healing another Survivor without a <span class='amber--text font-italic'>Med-Kit</span> to instantly heal them <span class='yellow--text font-weight-bold'>1</span> <span class='amber--text font-italic'>Health State</span>. <br> • You become the <span class='amber--text font-italic font-weight-bold'>Obsession</span>. <br><br> For the People causes the <span class='amber--text font-italic font-weight-bold'>Broken</span> Status Effect for <span class='yellow--text font-weight-bold'>80</span>/<span class='green--text font-weight-bold'>70</span>/<span class='purple--text font-weight-bold'>60</span> seconds after using it. <br><br> Lowers the odds of becoming the Killer's initial Obsession by <span class='yellow--text font-weight-bold'>-100 %</span>. <br><br> The Killer can only be obsessed with one Survivor at a time."
+    },
+    {
+        "id": "62d97776287a491fd2b08102",
+        "name": "Streetwise",
+        "icon": "./survivors-perks/streetwise.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Nea Karlsson",
+        "description": "Long nights out taught you to do a lot with what you have got. <br><br> • Increases the Efficiency of your <span class='amber--text font-italic'>Items</span> by <span class='yellow--text font-weight-bold'>15</span>/<span class='green--text font-weight-bold'>20</span>/<span class='purple--text font-weight-bold'>25</span> %. <br><br> Streetwise extends its effect to all other <span class='amber--text font-italic'>Survivors</span> within <span class='yellow--text font-weight-bold'>8 metres</span> of your location and lingers for <span class='orange--text font-weight-bold'>15 seconds</span>."
+    },
+    {
+        "id": "62d96b9817ce1f19cd7ff9fa",
+        "name": "Guardian",
+        "icon": "./survivors-perks/guardian.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "All",
+        "description": "You risk it all to help those in need. <br><br> When you unhook a <span class='amber--text font-italic'>Survivor</span>, the rescued Survivor benefits from the following effects for <span class='yellow--text font-weight-bold'>4</span>/<span class='green--text font-weight-bold'>6</span>/<span class='purple--text font-weight-bold'>8</span> seconds: <br><br> • <span class='amber--text font-italic'>Scratch Marks</span> and <span class='amber--text font-italic'>Pools of Blood</span> are suppressed. <br> • <span class='yellow--text font-weight-bold'>7 %</span> <span class='amber--text font-italic font-weight-bold'>Haste</span> Status Effect, boosting their Movement speed. <br><br> Guardian reveals the Killer's <span class='amber--text font-italic'>Aura</span> to you for <span class='orange--text font-weight-bold'>8 seconds</span>."
+    },
+    {
+        "id": "62d977420dbd4858555acca7",
+        "name": "Stake Out",
+        "icon": "./survivors-perks/stakeout.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "David Tapp",
+        "description": "Getting close to the Killer fills you with determination. <br><br> Every <span class='yellow--text font-weight-bold'>15 seconds</span> you are within the Killer's <span class='amber--text font-italic'>Terror Radius</span>, while not being chased, Stake Out gains <span class='orange--text font-weight-bold'>1 Token</span>, up to a maximum of <span class='yellow--text font-weight-bold'>2</span>/<span class='green--text font-weight-bold'>3</span>/<span class='purple--text font-weight-bold'>4</span> Tokens. <br><br> • When Stake Out has at least <span class='red--text font-weight-bold'>1 Token</span>, <span class='amber--text font-italic'>Good Skill Checks</span> consume <span class='purple--text font-weight-bold'>1 Token</span> and are considered Great Skill Checks, granting an additional Progression bonus of <span class='green--text font-weight-bold'>1 %</span>. <br> • Great Skill Checks do not consume any Tokens."
+    },
+    {
+        "id": "62d9736440a2fd50872890f1",
+        "name": "Repressed Alliance",
+        "icon": "./survivors-perks/repressedalliance.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Cheryl Mason",
+        "description": "You are accustomed to being hunted by malicious forces, and you have begun using it to your advantage. <br>br> After repairing <span class='amber--text font-italic'>Generators</span> for a total of <span class='yellow--text font-weight-bold'>55</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>45</span> seconds, Repressed Alliance activates: <br><br> • Press the Active Ability button to call upon The <span class='amber--text font-italic'>Entity</span> to block the Generator you are currently repairing for <span class='yellow--text font-weight-bold'>30 seconds</span>, after which Repressed Alliance deactivates. <br> • The <span class='amber--text font-italic'>Aura</span> of the blocked Generator is revealed to all Survivors in white."
+    },
+    {
+        "id": "62d95fe9f13b8cc538cc0b86",
+        "name": "Autodidact",
+        "icon": "./survivors-perks/autodidact.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Adam Francis",
+        "description": "You start the Trial with a <span class='yellow--text font-weight-bold'>-25 %</span> Progression penalty for <span class='amber--text font-italic'>Skill Checks</span> to heal <span class='amber--text font-italic'>Survivors</span>. <br><br> For every successful Skill Check completed while healing a Survivor, Autodidact gains <span class='yellow--text font-weight-bold'>1 Token</span> up to a maximum of <span class='yellow--text font-weight-bold'>3</span>/<span class='green--text font-weight-bold'>4</span>/<span class='purple--text font-weight-bold'>5</span> Tokens. <br><br> • Each Token grants a <span class='red--text font-weight-bold'>+15 %</span> bonus Progression for a successful Skill Check while healing Survivors. <br> • Great Skill Checks cannot be performed while using Autodidact. <br><br> Autodidact is not active when using a <span class='amber--text font-italic'>Med-Kit</span> to heal."
+    },
+    {
+        "id": "62d96c4980f09b4cb185b28a",
+        "name": "Hope",
+        "icon": "./survivors-perks/hope.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "All",
+        "description": "The growing odds of a successful escape fill you with hope and give you wings. <br><br> As soon as the <span class='amber--text font-italic'>Exit Gate</span> are powered, gain a <span class='yellow--text font-weight-bold'>5</span>/<span class='green--text font-weight-bold'>6</span>/7 % <span class='amber--text font-italic font-weight-bold'>Haste</span> Status Effect."
+    },
+    {
+        "id": "62d971834366e8782910a8eb",
+        "name": "Poised",
+        "icon": "./survivors-perks/poised.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Jane Romero",
+        "description": "Achieving goals boosts your confidence. <br><br> After a <span class='amber--text font-italic'>Generator</span> is completed, you will not leave any <span class='amber--text font-italic'>Scratch Marks</span> for the next <span class='yellow--text font-weight-bold'>6</span>/<span class='green--text font-weight-bold'>8</span>/<span class='purple--text font-weight-bold'>10</span> seconds."
+    },
+    {
+        "id": "62d964b68c1a7c97e2a49309",
+        "name": "Breakout",
+        "icon": "./survivors-perks/breakout.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Yui Kimura",
+        "description": "You kick into high gear when someone is in trouble, inspiring them to overcome any obstacle. <br><br> When within <span class='yellow--text font-weight-bold'>6 metres</span> of a carried <span class='amber--text font-italic'>Survivor</span> you gain the <span class='amber--text font-italic font-weight-bold'>Haste</span> Status Effect, moving at an increased speed of <span class='yellow--text font-weight-bold'>5</span>/<span class='green--text font-weight-bold'>6</span>/<span class='purple--text font-weight-bold'>7</span> %. <br><br> • The carried Survivor's Wiggling speed is increased by <span class='orange--text font-weight-bold'>20 %</span>."
+    },
+    {
+        "id": "62d974f42ce93895ff8767a1",
+        "name": "Self-Care",
+        "icon": "./survivors-perks/selfcare.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Claudette Morel",
+        "description": "• Unlocks the Self-Care ability, allowing you to self-heal without needing a <span class='amber--text font-italic'>Med-Kit</span> at <span class='yellow--text font-weight-bold'>25</span>/<span class='green--text font-weight-bold'>30</span>/<span class='purple--text font-weight-bold'>35</span> % of the normal Healing speed."
+    },
+    {
+        "id": "62d96b1e64dcfe99ab267784",
+        "name": "Flip-Flop",
+        "icon": "./survivors-perks/flipflop.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Ash Williams",
+        "description": "You have an uncanny ability to escape the inevitable. <br><br> While in the <span class='amber--text font-italic'>Dying State</span>, <span class='yellow--text font-weight-bold'>50 %</span> of your Recovery progression is converted into Wiggling progression, up to a maximum of <span class='yellow--text font-weight-bold'>40</span>/<span class='green--text font-weight-bold'>45</span>/<span class='purple--text font-weight-bold'>50</span> %, once you are picked up by the <span class='amber--text font-italic'>Killer</span>."
+    },
+    {
+        "id": "62d975eeb5936795e8ba24e8",
+        "name": "Smash Hit",
+        "icon": "./survivors-perks/smashhit.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Yun-Jin Lee",
+        "description": "When your rival makes a mistake, you seize the opportunity. <br><br> After stunning the Killer with a <span class='amber--text font-italic'>Pallet</span>, break into a sprint at <span class='yellow--text font-weight-bold'>150 %</span> of your normal Running Movement speed for <span class='orange--text font-weight-bold'>4 seconds</span>. <br><br> Smash Hit causes the <span class='amber--text font-italic font-weight-bold'>Exhausted</span> Status Effect for <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>40</span> seconds. <br><br> Smash Hit cannot be used when Exhausted."
+    },
+    {
+        "id": "62d96605002c70e9caf281ae",
+        "name": "Clairvoyance",
+        "icon": "./survivors-perks/clairvoyance.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Mikaela Reid",
+        "description": "There is an intrinsic energy in you that sees beyond your vision. <br><br> Whenever you cleanse a <span class='amber--text font-italic'>Totem</span>, Clairvoyance activates: <br><br> • When empty-handed, press and hold the Ability button to unlock your full Aura-reading potential, allowing you to see the <span class='amber--text font-italic'>Auras</span> of the <span class='amber--text font-italic'>Exit Gate Switches</span>, <span class='amber--text font-italic'>Generators</span>, <span class='amber--text font-italic'>Hooks</span>, <span class='amber--text font-italic'>Chests</span>, and the <span class='amber--text font-italic'>Hatch</span> within <span class='yellow--text font-weight-bold'>64 metres</span> for <span class='yellow--text font-weight-bold'>8</span>/<span class='green--text font-weight-bold'>9</span>/<span class='purple--text font-weight-bold'>10</span> seconds."
+    },
+    {
+        "id": "62d960aac1b7b00599f59a80",
+        "name": "Bite The Bullet",
+        "icon": "./survivors-perks/bitethebullet.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Leon Scott Kennedy",
+        "description": "Pain hurts you as much as anyone, but you would prefer others do not know that. <br><br> When healing yourself or another <span class='amber--text font-italic'>Survivor</span>, Grunts of Pain and all noises related to the Healing action are suppressed: <br><br> • Failed Healing <span class='amber--text font-italic'>Skill Checks</span> do not trigger a <span class='amber--text font-italic'>Loud Noise Notification</span> and only apply a Regression penalty of <span class='yellow--text font-weight-bold'>3</span>/<span class='green--text font-weight-bold'>2</span>/<span class='purple--text font-weight-bold'>1</span> %."
+    },
+    {
+        "id": "62d969d253ae7c47b39db392",
+        "name": "Diversion",
+        "icon": "./survivors-perks/diversion.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Adam Francis",
+        "description": "Activate-able Perk. <br><br> Standing within the Killer's <span class='amber--text font-italic'>Terror Radius</span> while not in a Chase for <span class='yellow--text font-weight-bold'>40</span>/<span class='green--text font-weight-bold'>35</span>/<span class='purple--text font-weight-bold'>30</span> seconds activates Diversion. <br><br> Once Diversion is activated, press the Active Ability button while crouched and motionless to throw a pebble, creating a distraction for the Killer at a distance of <span class='yellow--text font-weight-bold'>20 metres</span>. <br><br> The distraction consists of the following: <br><br> • A <span class='amber--text font-italic'>Loud Noise Notification</span>. <br> • <span class='amber--text font-italic'>Scratch Marks</span> <br><br> Diversion's timer resets once the ability has been activated."
+    },
+    {
+        "id": "62d9747b3a4bb71e1d1c846d",
+        "name": "Saboteur",
+        "icon": "./survivors-perks/saboteur.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Jake Park",
+        "description": "Unlocks potential in your Aura-reading ability: <br><br> For the duration of the <span class='amber--text font-italic'>Killer</span> carrying another <span class='amber--text font-italic'>Survivor</span>, you see the <span class='amber--text font-italic'>Aura</span> of every <span class='amber--text font-italic'>Hook</span> within <span class='yellow--text font-weight-bold'>56 metres</span> of the pick-up location: <br><br> • The Auras of regular Hooks are revealed to you in white. <br> • The Auras of Scourge Hooks are revealed to you in <span class='yellow--text font-weight-bold'>yellow</span>. <br><br> Unlocks the ability to sabotage Hooks without needing a <span class='amber--text font-italic'>Toolbox</span>. • Sabotaging a Hook without a Toolbox takes <span class='orange--text font-weight-bold'>2.5 seconds</span>. <br> • The Sabotage action has a cool-down of <span class='yellow--text font-weight-bold'>90</span>/<span class='green--text font-weight-bold'>75</span>/<span class='purple--text font-weight-bold'>60</span> seconds."
+    },
+    {
+        "id": "62d975b95fbcd2e16d60b316",
+        "name": "Small Game",
+        "icon": "./survivors-perks/smallgame.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "All",
+        "description": "You have the undeniable capability to sense danger. <br><br> • Receive an auditory warning upon looking in the direction of Totems in a <span class='yellow--text font-weight-bold'>45 °</span> cone within <span class='yellow--text font-weight-bold'>8</span>/<span class='green--text font-weight-bold'>10</span>/<span class='purple--text font-weight-bold'>12</span> metres. <br><br> Small Game has a cool-down of <span class='yellow--text font-weight-bold'>14</span>/<span class='green--text font-weight-bold'>12</span>/<span class='purple--text font-weight-bold'>10</span> seconds each time it activates. <br><br> For each Dull or Hex Totem cleansed by any Player, Small Game gains <span class='orange--text font-weight-bold'>1 Token</span>: <br><br> • Each Token decreases the Detection cone's angle by <span class='red--text font-weight-bold'>5 °</span>, down to a minimum of <span class='purple--text font-weight-bold'>20 °</span>."
+    },
+    {
+        "id": "62d96a9627c27477a55dc221",
+        "name": "Fast Track",
+        "icon": "./survivors-perks/fasttrack.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Yun-Jin Lee",
+        "description": "Sometimes the sacrifice of others is necessary to get ahead. Whenever another Survivor is hooked, Fast Track gains <span class='yellow--text font-weight-bold'>1</span>/<span class='green--text font-weight-bold'>2</span>/<span class='purple--text font-weight-bold'>3</span> Tokens, up to a maximum of <span class='yellow--text font-weight-bold'>9</span>/<span class='green--text font-weight-bold'>18</span>/<span class='purple--text font-weight-bold'>27</span> Tokens. <br><br> • You consume all accumulated Tokens after a <span class='amber--text font-italic'>Great Skill Check</span> on a <span class='amber--text font-italic'>Generator</span>. <br> • Each Token grants a stack-able <span class='yellow--text font-weight-bold'>1 %</span> Progression bonus in addition to the default Progression bonus for succeeding a Great Skill Check."
+    },
+    {
+        "id": "62d970d50a6bf779c2fe40da",
+        "name": "Parental Guidance",
+        "icon": "./survivors-perks/parentalguidance.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Yoichi Asakawa",
+        "description": "You have inherited the ability to hear the dead — and now the dead warn you of danger. <br><br> After stunning the Killer by any means, Parental Guidance suppresses your <span class='amber--text font-italic'>Scratch Marks</span>, <span class='amber--text font-italic'>Pools of Blood</span>, and Grunts of Pain for the next <span class='yellow--text font-weight-bold'>5</span>/<span class='green--text font-weight-bold'>6</span>/<span class='purple--text font-weight-bold'>7</span> seconds."
+    },
+    {
+        "id": "62d96fdc2df42ba0b1985232",
+        "name": "Off the Record",
+        "icon": "./survivors-perks/offtherecord.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Zarina Kassir",
+        "description": "You have learnt that a quiet approach is sometimes best. <br><br> After being unhooked or unhooking yourself, Off the Record activates for the next <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>70</span>/<span class='purple--text font-weight-bold'>80</span> seconds: <br><br> • Prevents your <span class='amber--text font-italic'>Aura</span> from being revealed to the <span class='amber--text font-italic'>Killer</span>, if they attempt to read it. <br> • Suppresses Grunts of Pain when injured. <br> • Grants the <span class='amber--text font-italic font-weight-bold'>Endurance</span> Status Effect. <br> • This effect is cancelled prematurely if you perform a Conspicuous Action. <br><br> Off the Record deactivates once the <span class='amber--text font-italic'>Exit Gates</span> are powered."
+    },
+    {
+        "id": "62d9698b82a4777e36074f91",
+        "name": "Distortion",
+        "icon": "./survivors-perks/distortion.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Jeff Johansen",
+        "description": "You start the trial with <span class='yellow--text font-weight-bold'>3 Tokens</span>. <br><br> Whenever the <span class='amber--text font-italic'>Killer</span> attempts to read your <span class='amber--text font-italic'>Aura</span>, Distortion activates and <span class='orange--text font-weight-bold'>1 Token</span> is consumed: <br><br> • Your Aura will not be shown to the Killer and you will not leave any <span class='amber--text font-italic'>Scratch Marks</span> for the next <span class='yellow--text font-weight-bold'>6</span>/<span class='green--text font-weight-bold'>8</span>/<span class='purple--text font-weight-bold'>10</span> seconds. <br><br> Every <span class='red--text font-weight-bold'>30 seconds</span> you are within the Killer's <span class='amber--text font-italic'>Terror Radius</span>, Distortion gains back <span class='purple--text font-weight-bold'>1 Token</span>. <br><br> Distortion does not activate when you are in the <span class='amber--text font-italic'>Dying State</span>."
+    },
+    {
+        "id": "62d972e4a9f3ff14a9afb1ff",
+        "name": "Red Herring",
+        "icon": "./survivors-perks/redherring.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Zarina Kassir",
+        "description": "You have noticed that people pay attention to whatever makes the loudest noise. <br><br>After repairing a <span class='amber--text font-italic'>Generator</span> for at least <span class='yellow--text font-weight-bold'>3 seconds</span>, its <span class='amber--text font-italic'>Aura</span> is highlighted to you in <span class='yellow--text font-weight-bold'>yellow</span>. <br><br> • The Generator stays highlighted until it is either fully repaired, you start repairing another Generator, or enter a <span class='amber--text font-italic'>Locker</span>. <br> • Entering a Locker will trigger a <span class='amber--text font-italic'>Loud Noise Notification</span> for the Killer at the highlighted Generator's location. <br><br> Red Herring has a cool-down of <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>40</span> seconds."
+    },
+    {
+        "id": "62d973204f12728e144c0a74",
+        "name": "Renewal",
+        "icon": "./survivors-perks/renewal.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "All",
+        "description": "When you heal another <span class='amber--text font-italic'>Survivor</span> for the equivalent of <span class='yellow--text font-weight-bold'>1</span> <span class='amber--text font-italic'>Health State</span>, Renewal activates: <br><br> • The next time you are unhooked or unhook yourself, you suffer from the <span class='amber--text font-italic font-weight-bold'>Broken</span> Status Effect until Renewal deactivates. <br> • You are automatically healed <span class='orange--text font-weight-bold'>1 Health State</span> after <span class='yellow--text font-weight-bold'>28</span>/<span class='green--text font-weight-bold'>24</span>/<span class='purple--text font-weight-bold'>20</span> seconds. <br><br> While Renewal is active, the following conditions will deactivate it: <br><br> • Successfully being healed by Renewal. <br> • Being put into the <span class='amber--text font-italic'>Dying State</span> before the timer elapses. <br><br> Renewal does not activate if you already suffer from the Broken Status Effect."
+    },
+    {
+        "id": "62d97444c023051b0b304cd7",
+        "name": "Rookie Spirit",
+        "icon": "./survivors-perks/rookiespirit.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Leon Scott Kennedy",
+        "description": "You keep a careful eye on objectives when they are slipping away. <br><br> While repairing <span class='amber--text font-italic'>Generators</span>, complete <span class='yellow--text font-weight-bold'>5'</span>/<span class='green--text font-weight-bold'>4</span>/<span class='purple--text font-weight-bold'>3</span> ' Good or Great <span class='amber--text font-italic'>Skill Checks</span> to activate Rookie Spirit for the remainder of the Trial: <br><br> • Once active, the <span class='amber--text font-italic'>Auras</span> of any regressing Generators are revealed to you."
+    },
+    {
+        "id": "62d967524a328be4ba4008be",
+        "name": "Dark Sense",
+        "icon": "./survivors-perks/darksense.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "All",
+        "description": "Unlocks potential in your Aura-reading ability: <br><br> Each time a <span class='amber--text font-italic'>Generator</span> is completed, Dark Sense activates: <br><br> • The <span class='amber--text font-italic'>Aura</span> of the Killer is revealed to you for <span class='yellow--text font-weight-bold'>5</span>/<span class='green--text font-weight-bold'>7</span>/<span class='purple--text font-weight-bold'>10</span> seconds, as soon as they come within <span class='yellow--text font-weight-bold'>24 metres</span> of you, after which Dark Sense deactivates."
+    },
+    {
+        "id": "62d97141aac437b403026695",
+        "name": "Plunderer's Instinct",
+        "icon": "./survivors-perks/plunderersinstinct.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "All",
+        "description": "Unlocks potential in your Aura-reading ability: <br><br> • The <span class='amber--text font-italic'>Auras</span> of closed <span class='amber--text font-italic'>Chests</span> and dropped <span class='amber--text font-italic'>Items</span> in the environment within <span class='yellow--text font-weight-bold'>16</span>/<span class='green--text font-weight-bold'>24</span>/<span class='purple--text font-weight-bold'>32</span> metres of your location are revealed to you. <br> • Grants a <span class='yellow--text font-weight-bold'>considerably</span> better chance at finding an Item of a higher Rarity from Chests."
+    },
+    {
+        "id": "62d96eb237925bf854e4ffb4",
+        "name": "Mettle of Man",
+        "icon": "./survivors-perks/mettleofman.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Ash Williams",
+        "description": "Evil has a way of always finding you. <br><br> After triggering your <span class='yellow--text font-weight-bold'>second</span> <span class='amber--text font-italic'>Protection Hit</span>, Mettle of Man activates: <br><br> • Grants the <span class='amber--text font-italic font-weight-bold'>Endurance</span> Status Effect. <br> • Endurance Status Effect is cancelled prematurely if you perform a Conspicuous Action. <br> • As long as you have Endurance, your <span class='amber--text font-italic'>Aura</span> is revealed to the <span class='amber--text font-italic'>Killer</span> whenever you are farther than <span class='yellow--text font-weight-bold'>12</span>/<span class='green--text font-weight-bold'>14</span>/<span class='purple--text font-weight-bold'>16</span> metres from them. <br><br> Mettle of Man deactivates once Endurance is lost. <br><br> Increases the odds of becoming the Killer's initial Obsession by <span class='yellow--text font-weight-bold'>+100 %</span>. <br><br> The Killer can only be obsessed with one Survivor at a time.."
+    },
+    {
+        "id": "62d966d7e7425a54bbe20f20",
+        "name": "Counterforce",
+        "icon": "./survivors-perks/counterforce.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Jill Valentine",
+        "description": "You know how to withstand an enemy stronger than you, and it starts with hunting down and knocking out their support. You cleanse <span class='amber--text font-italic'>Totems</span> <span class='yellow--text font-weight-bold'>20 %</span> faster. <br><br> • Gain another, stack-able <span class='orange--text font-weight-bold'>20 %</span> Cleansing Speed bonus per cleansed Totem. <br> • After cleansing a Totem, the <span class='amber--text font-italic'>Aura</span> of the Totem farthest from you is revealed to you for <span class='yellow--text font-weight-bold'>2</span>/<span class='green--text font-weight-bold'>3</span>/<span class='purple--text font-weight-bold'>4</span> seconds."
+    },
+    {
+        "id": "62d9632091228ffac6ad494a",
+        "name": "Boon: Exponential",
+        "icon": "./survivors-perks/boonexponential.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Jonah Vasquez",
+        "description": "When it seems like your number is up, you consider ways to recalculate the odds. <br><br> Press and hold the Active Ability button near a Dull or Hex Totem to bless it and create a Boon Totem. <br><br> Soft chimes ring out within a radius of <span class='yellow--text font-weight-bold'>24 metres</span>. <br><br> Survivors inside the Boon Totem's range benefit from the following effects: <br><br> • <span class='yellow--text font-weight-bold'>90</span>/<span class='green--text font-weight-bold'>95</span>/<span class='purple--text font-weight-bold'>100</span> % bonus to the Recovery speed. <br> • Unlocks the Self-Recovery ability, allowing you to fully recover from the <span class='amber--text font-italic'>Dying State</span>. <br><br> You can only bless one Totem at a time. <br><br> All equipped Boon Perks are active on the same Boon Totem."
+    },
+    {
+        "id": "62d968a8bfe947898a7779a4",
+        "name": "Deja Vu",
+        "icon": "./survivors-perks/dejavu.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "All",
+        "description": "Unlocks potential in your Aura-reading ability: <br><br> Paranoia paired with your horror of failure helps prepare you from repeating the same mistakes. <br><br> The <span class='amber--text font-italic'>Auras</span> of the <span class='yellow--text font-weight-bold'>3</span> <span class='amber--text font-italic'>Generators</span> in closest proximity to one another are revealed to you for <span class='yellow--text font-weight-bold'>30</span>/<span class='green--text font-weight-bold'>45</span>/<span class='purple--text font-weight-bold'>60</span> seconds at the start of the Trial, and each time a Generator is completed. <br> • Increases your Repair speed on those Generators by <span class='orange--text font-weight-bold'>+5 %</span> while active. <br> • If you are holding a <span class='amber--text font-italic'>Map</span>, all Generators revealed by Déjà Vu are automatically added to it."
+    },
+    {
+        "id": "62d96e17bb62183dc46e74b8",
+        "name": "Lightweight",
+        "icon": "./survivors-perks/lightweight.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "All",
+        "description": "Your running is light and soft, making your tracks harder to follow. <br><br> • Reduces the duration of your <span class='amber--text font-italic'>Scratch Marks</span> by <span class='yellow--text font-weight-bold'>3</span>/<span class='green--text font-weight-bold'>4</span>/<span class='purple--text font-weight-bold'>5</span> seconds. <br> • Your <span class='amber--text font-italic'>Scratch Marks</span> are spaced inconsistently."
+    },
+    {
+        "id": "62d9709523798ddf5d3d41be",
+        "name": "Overzealous",
+        "icon": "./survivors-perks/overzealous.webp",
+        "rank": "<span class='yellow--text font-weight-bold'>B</span>",
+        "character": "Haddie Kaur",
+        "description": "Fighting back against the Ravage motivates and inspires you. <br><br> After cleansing a <span class='amber--text font-italic'>Totem</span>, Overzealous activates: <br><br> • Increases your Repair speed by <span class='yellow--text font-weight-bold'>6</span>/<span class='green--text font-weight-bold'>7</span>/<span class='purple--text font-weight-bold'>8</span> % if it was a Dull Totem. <br> • Increases your Repair speed by <span class='yellow--text font-weight-bold'>12</span>/<span class='green--text font-weight-bold'>14</span>/<span class='purple--text font-weight-bold'>16</span> % if it was a Hex Totem. <br><br> Overzealous deactivates when losing a <span class='amber--text font-italic'>Health State</span> by any means."
+    },
+    {
+        "id": "62d978a8de817750d9079c18",
+        "name": "Urban Evasion",
+        "icon": "./survivors-perks/urbanevasion.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Nea Karlsson",
+        "description": "Years of evading the cops taught you a thing or two about stealth. <br><br> • Increases your Crouching Movement speed by <span class='yellow--text font-weight-bold'>90</span>/<span class='green--text font-weight-bold'>95</span>/<span class='purple--text font-weight-bold'>100</span> %."
+    },
+    {
+        "id": "62d96f8c870c6dfd62c80388",
+        "name": "Object of Obsession",
+        "icon": "./survivors-perks/objectofobsession.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Laurie Strode",
+        "description": "A supernatural bond links you to the Killer. <br><br> Whenever the Killer reads your <span class='amber--text font-italic'>Aura</span> and for the same duration as they do so, Object of <span class='amber--text font-italic font-weight-bold'>Obsession</span> activates: <br><br> • The Killer's Aura is revealed to you. <br> • Increases your Action speeds in Repairing, Healing, and Cleansing by <span class='yellow--text font-weight-bold'>2</span>/<span class='green--text font-weight-bold'>4</span>/<span class='purple--text font-weight-bold'>6</span> %. <br><br> If you are the Obsession, your Aura is automatically revealed to the Killer for <span class='yellow--text font-weight-bold'>3 seconds</span> every <span class='orange--text font-weight-bold'>30 seconds</span>. <br><br> Increases the odds of becoming the Killer's initial Obsession by <span class='yellow--text font-weight-bold'>+100 %</span>. <br><br> The Killer can only be obsessed with one Survivor at a time."
+    },
+    {
+        "id": "62d96d7f2b20ea344e674a89",
+        "name": "Kindship",
+        "icon": "./survivors-perks/kindship.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "All",
+        "description": "The importance of friendship has given you strength. <br><br> While you are on the <span class='amber--text font-italic'>Hook</span> in the Struggle Phase, Kinship activates: <br><br> • If another <span class='amber--text font-italic'>Survivor</span> is within <span class='yellow--text font-weight-bold'>16 metres</span> of your Hook while Kinship is active, the Struggle Phase timer is paused for <span class='yellow--text font-weight-bold'>26</span>/<span class='green--text font-weight-bold'>30</span>/<span class='purple--text font-weight-bold'>34</span> seconds."
+    },
+    {
+        "id": "62d97560fbffba11a8e5a233",
+        "name": "Situational Awareness",
+        "icon": "./survivors-perks/situationalawareness.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "All",
+        "description": "You are aware of your surroundings and share the information with others. <br><br> While repairing a <span class='amber--text font-italic'>Generator</span>, its <span class='amber--text font-italic'>Aura</span> is revealed in <span class='yellow--text font-weight-bold'>yellow</span> to all other Survivors located within <span class='yellow--text font-weight-bold'>32 metres</span>. <br><br> If the <span class='amber--text font-italic'>Killer</span> downs a Survivor while you are repairing a Generator, you see the Auras of all other Survivors for <span class='yellow--text font-weight-bold'>8</span>/<span class='green--text font-weight-bold'>9</span>/<span class='purple--text font-weight-bold'>10</span> seconds."
+    },
+    {
+        "id": "62d971b02ff6588b267bd574",
+        "name": "Power Struggle",
+        "icon": "./survivors-perks/powerstruggle.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Élodie Rakoto",
+        "description": "You have never given up and you are not about to start now. <br><br> • Reveals the <span class='amber--text font-italic'>Auras</span> of available <span class='amber--text font-italic'>Pallets</span> whenever you are in the <span class='amber--text font-italic'>Dying State</span>. <br><br> While being carried by The Killer, reaching <span class='yellow--text font-weight-bold'>25</span>/<span class='green--text font-weight-bold'>20</span>/<span class='purple--text font-weight-bold'>15</span> % Wiggling progression activates Power Struggle: <br><br> • You can drop a nearby, standing Pallet to stun the Killer and escape their grasp. <br><br> Power Struggle deactivates after triggering successfully."
+    },
+    {
+        "id": "62d962bf96f695bd0a3c62c2",
+        "name": "Boon: Dark Theory",
+        "icon": "./survivors-perks/boondarktheory.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Yoichi Asakawa",
+        "description": "Your obsessive study of the paranormal has given you unprecedented knowledge of other Realms and planes of existence. <br><br> Press and hold the Active Ability button near a Dull or Hex Totem to bless it and create a <span class='amber--text font-italic font-weight-bold'>Boon Totem</span>. <br><br> Soft chimes ring out within a radius of <span class='yellow--text font-weight-bold'>24 metres</span>. <br><br> Survivors inside the Boon Totem's range benefit from the following effects: <br><br> • <span class='yellow--text font-weight-bold'>2 %</span> Haste Status Effect. <br> • This effect lingers for <span class='yellow--text font-weight-bold'>2</span>/<span class='green--text font-weight-bold'>3</span>/<span class='purple--text font-weight-bold'>4</span> seconds after leaving the Boon Totem's range. <br><br> You can only bless one Totem at a time. <br><br> All equipped Boon Perks are active on the same Boon Totem."
+    },
+    {
+        "id": "62d9792506ddc7f63adf2a20",
+        "name": "Visionary",
+        "icon": "./survivors-perks/visionary.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Felix Richter",
+        "description": "You are remarkably focused on your means of escape. <br><br> The <span class='amber--text font-italic'>Auras</span> of <span class='amber--text font-italic'>Generators</span> are revealed to you within <span class='yellow--text font-weight-bold'>32 metres</span>. <br><br> • Each time a Generator is completed, Visionary is disabled for <span class='yellow--text font-weight-bold'>20</span>/<span class='green--text font-weight-bold'>18</span>/<span class='purple--text font-weight-bold'>16</span> seconds."
+    },
+    {
+        "id": "62d95f7d0b85120fc02cec5",
+        "name": "Appraisal",
+        "icon": "./survivors-perks/appraisal.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Élodie Rakoto",
+        "description": "You have a careful eye that notices what many overlook. Start the Trial with <span class='yellow--text font-weight-bold'>3 Tokens</span>: <br><br> • When a <span class='amber--text font-italic'>Chest</span> has already been opened, consume <span class='orange--text font-weight-bold'>1 Token</span> to rummage through it for an <span class='amber--text font-italic'>Item</span>. <br> • Rummage through Chests <span class='yellow--text font-weight-bold'>40</span>/<span class='green--text font-weight-bold'>60</span>/<span class='purple--text font-weight-bold'>80</span> % faster. <br><br> Rummaging is only available once per Chest."
+    },
+    {
+        "id": "62d96de79de2e4dbb38d7d85",
+        "name": "Left Behind",
+        "icon": "./survivors-perks/leftbehind.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Bill Overbeck",
+        "description": "You will get the job done... no matter the cost. <br><br> When you are the last Survivor remaining in the Trial, the <span class='amber--text font-italic'>Aura</span> of the <span class='amber--text font-italic'>Hatch</span> is revealed to you when you are within <span class='yellow--text font-weight-bold'>24</span>/<span class='green--text font-weight-bold'>28</span>/<span class='purple--text font-weight-bold'>32</span> metres."
+    },
+    {
+        "id": "62d965b4536c2bc19d7f5ab6",
+        "name": "Calm Spirit",
+        "icon": "./survivors-perks/calmspirit.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Jake Park",
+        "description": "Animals seem to trust you as they often stay calm in your presence. <br><br> • Prevents <span class='amber--text font-italic'>Crows</span> from being alerted by your proximity and flying off, unless they are being stepped on. <br> • Suppresses the urge to scream from pain at all times. <br> • Suppresses all noises related to unlocking <span class='amber--text font-italic'>Chests</span> and cleansing or blessing <span class='amber--text font-italic'>Totems</span>. <br> • Reduces their Interaction speed by <span class='yellow--text font-weight-bold'>40</span>/<span class='green--text font-weight-bold'>35</span>/<span class='purple--text font-weight-bold'>30</span> %."
+    },
+    {
+        "id": "62d9614d96f50a3fb2facb30",
+        "name": "Blood Pact",
+        "icon": "./survivors-perks/bloodpact.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Cheryl Mason",
+        "description": "It is as if a latent part of yourself has awakened. <br><br> You feel like you can reach out beyond yourself for assistance. <br><br> When you or the <span class='amber--text font-italic font-weight-bold'>Obsession</span> are injured, you both see each other's <span class='amber--text font-italic'>Auras</span>. <br><br> • After healing the Obsession or being healed by the Obsession, you both gain the <span class='amber--text font-italic font-weight-bold'>Haste</span> Status Effect, moving at an increased speed of <span class='yellow--text font-weight-bold'>5</span>/<span class='green--text font-weight-bold'>6</span>/<span class='purple--text font-weight-bold'>7</span> % until you are no longer within <span class='yellow--text font-weight-bold'>16 metres</span> of each other. <br> • If you are the Obsession, Blood Pact deactivates. <br><br> Lowers the odds of becoming the Killer's initial Obsession by <span class='yellow--text font-weight-bold'>-100 %</span>. <br><br> The Killer can only be obsessed with one Survivor at a time."
+    },
+    {
+        "id": "62d977a8eda9823ae5b960ec",
+        "name": "Technician",
+        "icon": "./survivors-perks/technician.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Feng Min",
+        "description": "You are apt at handling machinery with the greatest care and precision Failing a <span class='amber--text font-italic'>Skill Check</span> while repairing: <br><br> • Prevents the Generator Explosion. <br> • Applies the default Regression penalty. <br> • Applies an additional Regression penalty of <span class='yellow--text font-weight-bold'>5</span>/<span class='green--text font-weight-bold'>4</span>/<span class='purple--text font-weight-bold'>3</span> %. <br><br> Technician reduces the audible range of your Generator-repairing noises by <span class='yellow--text font-weight-bold'>8 metres</span>."
+    },
+    {
+        "id": "62d975960e80a5e171b476f3",
+        "name": "Slippery Meat",
+        "icon": "./survivors-perks/slipperymeat.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "All",
+        "description": "You have developed an efficient way to get off Hooks. <br><br> • Grants <span class='yellow--text font-weight-bold'>3</span> additional Self-Unhook attempts. <br> • Increases the Self-Unhook chance by <span class='yellow--text font-weight-bold'>2</span>/<span class='green--text font-weight-bold'>3</span>/<span class='purple--text font-weight-bold'>4</span> %."
+    },
+    {
+        "id": "62d96f02ebe22224151a23e7",
+        "name": "No Mither",
+        "icon": "./survivors-perks/nomither.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "David King",
+        "description": "Go on out, kid, it is just a scratch. <br><br> Your thick blood coagulates practically instantly. <br><br> You suffer from the <span class='amber--text font-italic font-weight-bold'>Broken</span> Status Effect for the entire Trial, but benefit from the following effects: <br><br> • <span class='amber--text font-italic'>Pools of Blood</span> are suppressed. <br> • When injured or dying, Grunts of Pain are reduced by <span class='yellow--text font-weight-bold'>25</span>/<span class='green--text font-weight-bold'>50</span>/<span class='purple--text font-weight-bold'>75</span> %. <br> • Your Recovery speed is increased by <span class='yellow--text font-weight-bold'>15</span>/<span class='green--text font-weight-bold'>20</span>/<span class='purple--text font-weight-bold'>25</span> %. <br> • You can recover fully from the <span class='amber--text font-italic'>Dying State</span>."
+    },
+    {
+        "id": "62d96a12cb15965568e39ba4",
+        "name": "Empathic Connection",
+        "icon": "./survivors-perks/empathicconnection.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Yoichi Asakawa",
+        "description": "Your presence psychically projects itself to those in danger. <br><br> • Whenever another <span class='amber--text font-italic'>Survivor</span> is injured, they can see your <span class='amber--text font-italic'>Aura</span> when within <span class='yellow--text font-weight-bold'>32</span>/<span class='green--text font-weight-bold'>64</span>/<span class='purple--text font-weight-bold'>96</span> metres of your location. <br> • You heal other Survivors <span class='yellow--text font-weight-bold'>10 %</span> faster."
+    },
+    {
+        "id": "62d96f42936a6831cefea3ce",
+        "name": "No One Left Behind",
+        "icon": "./survivors-perks/nooneleftbehind.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "All",
+        "description": "It is inconceivable to leave someone behind. <br><br> Once the <span class='amber--text font-italic'>Exit Gates</span> are powered, No One Left Behind activates: <br><br> • Increases your Unhooking and Healing speed by <span class='yellow--text font-weight-bold'>30</span>/<span class='green--text font-weight-bold'>40</span>/<span class='purple--text font-weight-bold'>50</span> %. <br> • Grants <span class='yellow--text font-weight-bold'>50</span>/<span class='green--text font-weight-bold'>75</span>/<span class='purple--text font-weight-bold'>100</span> % bonus <span class='amber--text font-italic'>Bloodpoints</span> for actions in the <span class='amber--text font-italic'>Altruism</span> Category. <br> • Grants the unhooked <span class='amber--text font-italic'>Survivor</span> a <span class='yellow--text font-weight-bold'>7 %</span> <span class='amber--text font-italic font-weight-bold'>Haste</span> Status Effect for <span class='orange--text font-weight-bold'>10 seconds</span>. <br> • The <span class='amber--text font-italic'>Auras</span> of all other Survivors are revealed to you."
+    },
+    {
+        "id": "62d97520bcbf69335e3ed330",
+        "name": "Self Preservation",
+        "icon": "./survivors-perks/selfpreservation.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Yun-Jin Lee",
+        "description": "Life is unforgiving. <br><br> The more confirmation you get of that, the more prepared you become. <br><br> Whenever another Survivor is hit with a <span class='amber--text font-italic'>Basic Attack</span> or <span class='amber--text font-italic'>Special Attack</span> within <span class='yellow--text font-weight-bold'>16 metres</span> of you, Self-Preservation activates: <br><br> • <span class='amber--text font-italic'>Scratch Marks</span>, Grunts of Pain when injured, and <span class='amber--text font-italic'>Bleeding</span> are suppressed for the next <span class='yellow--text font-weight-bold'>6</span>/<span class='green--text font-weight-bold'>8</span>/<span class='purple--text font-weight-bold'>10</span> seconds."
+    },
+    {
+        "id": "62d97878566561bf001c2a48",
+        "name": "Up the Ante",
+        "icon": "./survivors-perks/uptheante.webp",
+         "rank": "<span class='amber--text font-weight-bold'>C</span>",
+        "character": "Ace Visconti",
+        "description": "All will be well in the end; you just know it. <br><br> Your confidence strengthens the feeling of hope for those around you. <br><br> For Each Survivor still in the Trial, Up the Ante gains <span class='yellow--text font-weight-bold'>1 Token</span>. <br><br> • Each Token applies a stack-able <span class='yellow--text font-weight-bold'>1</span>/<span class='green--text font-weight-bold'>2</span>/<span class='purple--text font-weight-bold'>3</span> % bonus to the <span class='amber--text font-italic'>Luck</span> of all Survivors, up to a maximum of <span class='yellow--text font-weight-bold'>3</span>/<span class='green--text font-weight-bold'>6</span>/<span class='purple--text font-weight-bold'>9</span> %."
+    },
+    {
+        "id": "62d971f4c69530dc2f61212f",
+        "name": "Premonition",
+        "icon": "./survivors-perks/premonition.webp",
+        "rank": "<span class='brown--text font-weight-bold'>D</span>",
+        "character": "All",
+        "description": "You have the undeniable capability to sense danger. <br><br> • Receive an auditory warning upon looking in the Killer's direction within a <span class='yellow--text font-weight-bold'>45 °</span> cone within <span class='orange--text font-weight-bold'>36 metres</span>. <br><br> Premonition has a cool-down of <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>45</span>/<span class='purple--text font-weight-bold'>30</span> seconds each time it activates."
+    },
+    {
+        "id": "62d9651376f491801075b456",
+        "name": "Buckle Up",
+        "icon": "./survivors-perks/buckleup.webp",
+        "rank": "<span class='brown--text font-weight-bold'>D</span>",
+        "character": "Ash Williams",
+        "description": "Unlocks potential in your Aura-reading ability. <br><br> You can determine the Recovery progress of dying <span class='amber--text font-italic'>Survivors</span> by the intensity of their <span class='amber--text font-italic'>Aura</span> at a distance of <span class='yellow--text font-weight-bold'>48 metres</span> away. <br><br> When healing another Survivor from the <span class='amber--text font-italic'>Dying State</span> to the <span class='amber--text font-italic'>Injured State</span>, the Killer's Aura is revealed to the both of you for <span class='yellow--text font-weight-bold'>6</span>/<span class='green--text font-weight-bold'>8</span>/<span class='purple--text font-weight-bold'>10</span> seconds."
+    },
+    {
+        "id": "62d9665b3b1f14dec01c64fe",
+        "name": "Corrective Action",
+        "icon": "./survivors-perks/correctiveaction.webp",
+        "rank": "<span class='brown--text font-weight-bold'>D</span>",
+        "character": "Jonah Vasquez",
+        "description": "You quickly analyse problems and correct others' work when they make a mistake. <br><br> You start the Trial with <span class='yellow--text font-weight-bold'>1</span>/<span class='green--text font-weight-bold'>2</span>/<span class='purple--text font-weight-bold'>3</span> Token(s) and gain a Token each time you succeed at a <span class='amber--text font-italic'>Great Skill Check</span>, up to a maximum of <span class='yellow--text font-weight-bold'>5 Tokens</span>. <br><br> • Each time another Survivor cooperating with you on the same <span class='amber--text font-italic'>Generator</span> fails a Skill Check, Corrective Action consumes <span class='orange--text font-weight-bold'>1 Token</span>, transforming their Failed Skill Check into Good Skill Check instead. <br><br> Corrective Action only applies to normal Skill Checks."
+    },
+    {
+        "id": "62d97625f72c9caf62406cb9",
+        "name": "Sole Survivor",
+        "icon": "./survivors-perks/solesurvivor.webp",
+        "rank": "<span class='brown--text font-weight-bold'>D</span>",
+        "character": "Laurie Strode",
+        "description": "As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's Aura-reading abilities towards you are disrupted. <br><br> Each time a Survivor other than yourself is killed or sacrificed, Sole Survivor gains <span class='yellow--text font-weight-bold'>1 Token</span>, up to a maximum of <span class='orange--text font-weight-bold'>3 Tokens</span>: <br><br> • Each Token grants a stack-able radius of <span class='yellow--text font-weight-bold'>20</span>/<span class='green--text font-weight-bold'>22</span>/<span class='purple--text font-weight-bold'>24</span> metres within which the Killer is unable to read your Aura, up to a maximum of <span class='yellow--text font-weight-bold'>60</span>/<span class='green--text font-weight-bold'>66</span>/<span class='purple--text font-weight-bold'>72</span> metres. <br><br> Once you are the last Survivor standing, you benefit from the following effects: <br><br> • Increases your Repair speed of <span class='amber--text font-italic'>Generators</span> by <span class='red--text font-weight-bold'>+75 %</span>. <br> • Increases your Opening speed of the <span class='amber--text font-italic'>Exit Gates</span> and the <span class='amber--text font-italic'>Hatch</span> by <span class='purple--text font-weight-bold'>+50 %</span>. <br><br> Increases the odds of becoming the Killer's initial Obsession by <span class='yellow--text font-weight-bold'>+100 %</span>. <br><br> The Killer can only be obsessed with one Survivor at a time."
+    },
+    {
+        "id": "62d978116371a6862f2c93dc",
+        "name": "This is not Happening",
+        "icon": "./survivors-perks/thisisnothappening.webp",
+        "rank": "<span class='brown--text font-weight-bold'>D</span>",
+        "character": "All",
+        "description": "You perform at your best when you are under extreme stress. <br><br> • Increases the Success zone of <span class='amber--text font-italic'>Great Skill Checks</span> while Repairing and Healing by <span class='yellow--text font-weight-bold'>10</span>/<span class='green--text font-weight-bold'>20</span>/<span class='purple--text font-weight-bold'>30</span> % when in the <span class='amber--text font-italic'>Injured State</span>."
+    },
+    {
+        "id": "62d96c8bd68feb227c1db089",
+        "name": "Inner Focus",
+        "icon": "./survivors-perks/innerfocus.webp",
+        "rank": "<span class='brown--text font-weight-bold'>D</span>",
+        "character": "Haddie Kaur",
+        "description": "You have honed your ability to see through the haze of the Ravage. <br><br> • You can see the <span class='amber--text font-italic'>Scratch Marks</span> of other Survivors. <br><br> • Whenever another Survivor loses a <span class='amber--text font-italic'>Health State</span> within <span class='orange--text font-weight-bold'>32 metres</span> of you, the Killer's <span class='amber--text font-italic'>Aura</span> is revealed to you for <span class='yellow--text font-weight-bold'>3</span>/<span class='green--text font-weight-bold'>4</span>/<span class='purple--text font-weight-bold'>5</span> seconds."
+    },
+    {
+        "id": "62d973b74e684cf7355fe03a",
+        "name": "Residual Manifest",
+        "icon": "./survivors-perks/residualmanifest.webp",
+        "rank": "<span class='brown--text font-weight-bold'>D</span>",
+        "character": "Haddie Kaur",
+        "description": "A lifetime of chasing the darkness has taught you that the best disinfectant is light. <br><br> • After a successful Killer Blind, the Killer suffers from the <span class='amber--text font-italic font-weight-bold'>Blindness</span> Status Effect for <span class='yellow--text font-weight-bold'>20</span>/<span class='green--text font-weight-bold'>25</span>/<span class='purple--text font-weight-bold'>30</span> seconds. <br> • Residual Manifest grants the ability to rummage through an opened <span class='amber--text font-italic'>Chest</span> once per Trial and will guarantee a basic <span class='amber--text font-italic'>Flashlight</span>."
+    }
+]

@@ -1,63 +1,28 @@
 <template>
-  <section>
-    Killers
-    <v-text-field
-      placeholder="Search for a killer"
-      v-model="search"
-    ></v-text-field>
-    <div v-if="$fetchState.pending">
-      <p>Content is loading...</p>
-    </div>
-    <v-list v-else>
-      <v-list-item
-        v-for="killer in filteredKillers"
-        :key="killer.id"
-        class="my-13"
-      >
-        <div class="d-flex flex-column align-center text-center">
-          <img :src="killer.portrait" alt="" />
-          <h2>{{ killer.name }}</h2>
-          <br />
-          Full name: {{ killer.full_name }} <br />
-          Gender :{{ killer.gender }} <br />
-          Nationality: {{ killer.nationality }} <br />
-          Height: {{ killer.height }} <br />
-          Power: {{ killer.power }} <br />
-          Weapon: {{ killer.weapon }} <br />
-          Realm: {{ killer.realm }} <br />
-          Speed: {{ killer.speed }} <br />
-          Terror radius: {{ killer.terror_radius }} <br />
-          Difficulty: {{ killer.difficulty }} <br />
-        </div>
-        <v-list-item v-for="perk in killer.perks" :key="perk.id">
-          {{ perk }}
-        </v-list-item>
-      </v-list-item>
-    </v-list>
-  </section>
+  <base-list>
+    <template v-slot:title>
+      Killers
+    </template>
+    <template v-slot:content>
+      <killer-list :killers="killers"></killer-list>
+    </template>
+  </base-list>
 </template>
 
 <script>
+import BaseList from '../components/UI/BaseList.vue';
+import KillerList from '../components/killers/KillerList.vue';
+import killers from '../static/killers.json'
+
 export default {
+  components: {
+    BaseList,
+    KillerList,
+  },
   data() {
     return {
-      search: "",
-      killers: [],
+      killers
     };
-  },
-  async fetch() {
-    const res = await this.$axios.get('/killers.json')
-    this.killers = res.data
-  },
-  fetchOnServer: false,
-  computed: {
-    filteredKillers() {
-      return this.killers.filter((killer) => {
-        if (killer.name.toLowerCase().includes(this.search.toLowerCase())) {
-          return killer.name.toLowerCase().includes(this.search.toLowerCase());
-        }
-      });
-    },
   },
 };
 </script>

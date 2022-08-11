@@ -1,51 +1,28 @@
 <template>
-  <section>
-    Survivors Perks
-    <v-text-field
-      placeholder="Search for a perk"
-      v-model="search"
-    ></v-text-field>
-    <div v-if="$fetchState.pending">
-      <p>Content is loading...</p>
-    </div>
-    <v-list v-else>
-      <v-list-item
-        v-for="survivorsPerk in filteredSurvivorsPerks"
-        :key="survivorsPerk.id"
-      >
-        <div class="d-flex flex-column align-center text-center">
-          <img :src="survivorsPerk.icon" alt="" />
-          <h2>{{ survivorsPerk.name }}</h2>
-          <br />
-        </div>
-        Character: {{ survivorsPerk.character }} <br />
-        Description: {{ survivorsPerk.description }}
-      </v-list-item>
-    </v-list>
-  </section>
+  <base-list>
+    <template v-slot:title>
+      Survivors Perks
+    </template>
+    <template v-slot:content>
+      <survivor-perk-list :survivorsPerks="survivorsPerks"></survivor-perk-list>
+    </template>
+  </base-list>
 </template>
 
 <script>
+import BaseList from '../components/UI/BaseList.vue';
+import SurvivorPerkList from '../components/survivors/SurvivorPerkList.vue';
+import survivorsPerks from '../static/survivorsPerks.json';
+
 export default {
+  components: {
+    BaseList,
+    SurvivorPerkList
+  },
   data() {
     return {
-      search: "",
-      survivorsPerks: [],
+      survivorsPerks
     };
-  },
-  async fetch() {
-    const res = await this.$axios.get('/survivors-perks.json')
-    this.survivorsPerks = res.data
-  },
-  fetchOnServer: false,
-  computed: {
-    filteredSurvivorsPerks() {
-      return this.survivorsPerks.filter((perk) => {
-        if (perk.name.toLowerCase().includes(this.search.toLowerCase())) {
-          return perk.name.toLowerCase().includes(this.search.toLowerCase());
-        }
-      });
-    },
   },
 };
 </script>
