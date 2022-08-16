@@ -1,6 +1,6 @@
 <template>
   <section class="loading black">
-    <img :src="gif" alt="" class="loading__gif" />
+    <img :src="gif" alt="Dead By Daylight loading" class="loading__gif" />
   </section>
 </template>
 
@@ -36,6 +36,10 @@ export default {
 
   &__gif {
     width: 50%;
+
+    @media all and (max-width: 900px) {
+      width: 100%;
+    }
   }
 }
 </style>
