@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/killers_perks", {data:[{}],fetch:{},mutations:void 0});
