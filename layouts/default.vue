@@ -170,7 +170,7 @@ export default {
       webLink: "https://manidavilay.com",
       linkedinLink: "https://www.linkedin.com/in/manida-vilay/",
       explanation:
-        "This website was made by Manida VILAY, a french frontend developer in Vue|Nuxt in order to practise and earn experience, <br /> by combining her love for the game and her job.",
+        "This website was made by <a href='https://manidavilay.com' target='_blank' class='white--text'>Manida VILAY</a>, a french frontend developer in Vue|Nuxt in order to practise and earn experience, <br /> by combining her love for the game and her job.",
       contact: "Feel free to check her personal website or linkedin below",
     };
   },
